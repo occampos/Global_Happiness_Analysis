@@ -1,4 +1,4 @@
-# Global_Happiness_Analysis
+# Patterns in Global Happiness
 
 <details>
 

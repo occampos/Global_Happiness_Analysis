@@ -4,6 +4,10 @@ The World Happiness Report, a publication by the Sustainable Development Solutio
 
 The annual happiness rankings are rooted in life evaluations conducted through the Gallup World Poll. These rankings stem from responses to the principal life evaluation question, utilizing the Cantril ladder. This approach prompts individuals to visualize a scale where 10 signifies the highest possible life satisfaction and 0 signifies the lowest. Respondents are then prompted to assess their own current lives on this scale.
 
+So, a happiness score surpassing 6 signifies a state of happiness, while a score below 4.5 indicates unhappiness, with scores falling in-between being categorized as moderate.
+
+![image](https://github.com/occampos/Patterns_In_Happiness/assets/139114659/a5a0d6db-389e-4873-95d3-9c74f67548e2)
+
 This analysis is segmented into two parts: one focusing on the ongoing year of 2023 and another that delves into a comprehensive review spanning all documented years.
 
 *Relveant questuons include:*

@@ -13,7 +13,7 @@ This analysis is segmented into two parts: one focusing on the ongoing year of 2
 
 ### 2023
 
-<img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_02.png"  width="500" height="450">
+<img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_02.png"  width="950" height="500">
 
 <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_03.png"  width="360" height="370">
 

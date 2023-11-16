@@ -22,19 +22,37 @@ Visual 1 illustrates that in 2023, the majority of countries reported a state of
 <tr><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_16.png" width="390" height="370"> </th><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_03.png"  width="411" height="370"></th></tr>
 <tr><td>
    
-*Visual 1; Number of countries by signal*
+*Visual 1; Number of countries by signal in 2023*
 </td><td>
    
-*Visual 2; Distriutiuon of happiness scores by number of countries* 
+*Visual 2; Distriutiuon of happiness scores by number of countries in 2023* 
 </td></tr> </table>
 
-<img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_02.png"  width="950" height="500">
+<p>&nbsp;</p>
 
+Visual 3 exhibits the countries boasting the highest and lowest happiness scores in 2023. The disparity between these two groups is substantial, with the highest scores exceeding double the lowest scores in the most extreme instance. Notably, the nations attaining the highest happiness scores are predominantly located in the European region, whereas those registering the lowest scores are primarily situated in the African region.
 
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_02.png"  width="950" height="500"> | 
+|:--:| 
+| *Visual 3; Countries witht he highest and lowest happiness scores in 2023* | 
 
-<img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_03.png"  width="360" height="370">
+<p>&nbsp;</p>
 
-<img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_04.png"  width="500" height="450">
+beans
+
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_04.png"  width="600" height="450"> | 
+|:--:| 
+| *Visual 3; Countries witht he highest and lowest happiness scores in 2023* | 
+
+<table>
+<tr><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_05.png"  width="570" height="380"> </th><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_06.png"  width="570" height="380"></th></tr>
+<tr><td>
+   
+*Visual 1; Number of countries by signal in 2023*
+</td><td>
+   
+*Visual 2; Distriutiuon of happiness scores by number of countries in 2023* 
+</td></tr> </table>
 
 <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_05.png"  width="570" height="380">
 

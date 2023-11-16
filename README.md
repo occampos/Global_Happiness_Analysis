@@ -4,11 +4,7 @@ The World Happiness Report, a publication by the Sustainable Development Solutio
 
 The annual happiness rankings are rooted in life evaluations conducted through the Gallup World Poll. These rankings stem from responses to the principal life evaluation question, utilizing the Cantril ladder. This approach prompts individuals to visualize a scale where 10 signifies the highest possible life satisfaction and 0 signifies the lowest. Respondents are then prompted to assess their own current lives on this scale.
 
-So, a happiness score surpassing 6 signifies a state of happiness, while a score below 4.5 indicates unhappiness, with scores falling in-between being categorized as moderate.
-
-![image](https://github.com/occampos/Patterns_In_Happiness/assets/139114659/a5a0d6db-389e-4873-95d3-9c74f67548e2)
-
-This analysis is segmented into two parts: one focusing on the ongoing year of 2023 and another that delves into a comprehensive review spanning all documented years.
+This analysis draws on data from the World Happiness Report and is divided into two sections: one examining the current year of 2023, and the other providing an in-depth assessment across all recorded years.
 
 *Relveant questuons include:*
 + What country-specific features are most commonly associated with higher levels of happiness?
@@ -16,8 +12,52 @@ This analysis is segmented into two parts: one focusing on the ongoing year of 2
 + Can a nation experiencing unhappiness anticipate a progression towards greater happiness over time?
 
 ### 2023
+A happiness score surpassing 6 signifies a state of happiness, while a score below 4.5 indicates unhappiness, with scores falling in-between being categorized as moderate.
 
-<img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_15.png"  width="950" height="500">
+<img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/happiness_scale.png">
+
+In 2023 the majority of countries reported a state of happiness or or moderate happiness at  55 countries and 54 countries respectively. A minority of countries reported being in a state of unhappiness at 28 countries. In general the world is reported to be moderaetly happy or happier in 2023. 
+
+<img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_16.png" width="411" height="370"> <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_03.png"  width="411" height="370">
+
+You can use table for this. It works fine.
+
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_16.png" width="350" height="370"> | 
+|:--:| 
+| *Image 1* | 
+
+<table>
+<tr><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_16.png" width="390" height="370"> </th><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_03.png"  width="411" height="370"></th></tr>
+<tr><td>
+
+*Image 1* 
+
+</td><td>
+
+*Image 2* 
+
+</td></tr> </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_02.png"  width="950" height="500">
+
+
 
 <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_03.png"  width="360" height="370">
 

@@ -16,44 +16,17 @@ A happiness score surpassing 6 signifies a state of happiness, while a score bel
 
 <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/happiness_scale.png">
 
-In 2023 the majority of countries reported a state of happiness or or moderate happiness at  55 countries and 54 countries respectively. A minority of countries reported being in a state of unhappiness at 28 countries. In general the world is reported to be moderaetly happy or happier in 2023. 
-
-<img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_16.png" width="411" height="370"> <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_03.png"  width="411" height="370">
-
-You can use table for this. It works fine.
-
-| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_16.png" width="350" height="370"> | 
-|:--:| 
-| *Image 1* | 
+Visual 1 illustrates that in 2023, the majority of countries reported a state of happiness or moderate happiness, 55 and 54 respectively. Conversely, a minority, comprising of 28 countries, reported an unhappy state. Overall, the global trend for 2023 indicates a prevalence of moderate to higher happiness levels. Visual 2 illustrates that the majority of countries had a happiness score ranging between 5 and 6 in 2023.
 
 <table>
 <tr><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_16.png" width="390" height="370"> </th><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_03.png"  width="411" height="370"></th></tr>
 <tr><td>
-
-*Image 1* 
-
+   
+*Visual 1; Number of countries by signal*
 </td><td>
-
-*Image 2* 
-
+   
+*Visual 2; Distriutiuon of happiness scores by number of countries* 
 </td></tr> </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_02.png"  width="950" height="500">
 
@@ -71,6 +44,9 @@ You can use table for this. It works fine.
 
 
 
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_16.png" width="350" height="370"> | 
+|:--:| 
+| *Image 1* | 
 
 
 

@@ -69,13 +69,13 @@ Visual 7 illustrates the correlations between country features in 2023.
 | *Visual 7; Country feature correlations* | 
 
 <table>
-<tr><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_17.png.jpg"  width="300" height="200"> </th><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_18.png.jpg"  width="340" height="240"></th></tr>
+<tr><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_17.png"  width="300" height="200"> </th><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_18.png"  width="340" height="240"></th></tr>
 <tr><td>
    
-*Visual 5; Distribution of happiness scores by region*
+*Visual 8*
 </td><td>
    
-*Visual 6; Country feature correlations*
+*Visual 9*
 </td></tr> 
 </table>
 

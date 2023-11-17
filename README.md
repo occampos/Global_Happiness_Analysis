@@ -39,11 +39,15 @@ Visual 3 exhibits the countries boasting the highest and lowest happiness scores
 
 <p>&nbsp;</p>
 
-beans
+Visual 4 illustrates that North America has the highest average happiness score while Africa has the lowest average happiness score. Notably the regions with the lower average happiness scores in comparison to other regions have a higher variety among individual countries. For example the middle east is shown to have the highest variety wtih having countries with low and high happiness scores.
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_04.png"  width="600" height="450"> | 
 |:--:| 
 | *Visual 4; Happiness scores by region* | 
+
+<p>&nbsp;</p>
+
+Visual 5 and visual 6 illustrates that the number of countries by happiness score. North america may have a high average happiness score but isn't composed of the most countries with high happiness scores. Europe and Africa dominates the visuals due to having the most countries reported. Europe is composed of the most countries with higher happiness scores while Africa is composed of the most countries with lower happiness scores. 
 
 <table>
 <tr><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_05.png"  width="570" height="380"> </th><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_06.png"  width="570" height="380"></th></tr>
@@ -56,25 +60,13 @@ beans
 </td></tr> 
 </table>
 
+<p>&nbsp;</p>
+
+Visual 7 illustrates the correlations between country features in 2023. 
+
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_07.png"  width="700" height="580"> | 
 |:--:| 
 | *Visual 7; Country feature correlations* | 
-
-| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_05.png"  width="570" height="380"> | 
-|:--:| 
-| *Visual 5; Distribution of happiness scores by region* | 
-
-| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_06.png"  width="570" height="380"> | 
-|:--:| 
-| *Visual 6; Distribution of happiness scores by region* | 
-
-
-| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_16.png" width="350" height="370"> | 
-|:--:| 
-| *Image 1* | 
-
-
-
 
 <details>
 
@@ -113,5 +105,19 @@ beans
 <details>
 
 <summary>Conclusions</summary>
+
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_05.png"  width="570" height="380"> | 
+|:--:| 
+| *Visual 5; Distribution of happiness scores by region* | 
+
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_06.png"  width="570" height="380"> | 
+|:--:| 
+| *Visual 6; Distribution of happiness scores by region* | 
+
+
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_16.png" width="350" height="370"> | 
+|:--:| 
+| *Image 1* | 
+
 
 </details>

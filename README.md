@@ -81,23 +81,23 @@ Visual 7 illustrates the correlations between country features in 2023.
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_08.png"  width="600" height="400"> | 
 |:--:| 
-| *Visual 7; Country feature correlations* | 
+| *Visual 10* | 
 
-| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_09.png"  width="630" height="522"> | 
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_09.png"  width="595" height="493"> | 
 |:--:| 
-| *Visual 7; Country feature correlations* | 
+| *Visual 11* | 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/download.png"  width="595" height="493"> | 
 |:--:| 
-| *Visual 7; Country feature correlations* | 
+| *Visual 11* | 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_10.png"  width="700" height="580"> | 
 |:--:| 
-| *Visual 7; Country feature correlations* | 
+| *Visual 12* | 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_11.png"  width="700" height="580"> | 
 |:--:| 
-| *Visual 7; Country feature correlations* | 
+| *Visual 13* | 
 
 
 <details>

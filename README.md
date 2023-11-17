@@ -39,7 +39,7 @@ Visual 3 exhibits the countries boasting the highest and lowest happiness scores
 
 <p>&nbsp;</p>
 
-Visual 4 illustrates that North America has the highest average happiness score while Africa has the lowest average happiness score. Notably the regions with the lower average happiness scores in comparison to other regions have a higher variety among individual countries. For example the middle east is shown to have the highest variety wtih having countries with low and high happiness scores.
+Visual 4 depicts North America as having the highest average happiness score, while Africa demonstrates the lowest average happiness score. Remarkably, regions with lower average happiness scores, compared to other regions, exhibit greater variability among individual countries. For instance, the Middle East stands out with the highest variety, showcasing countries with both low and high happiness scores.
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_04.png"  width="600" height="450"> | 
 |:--:| 
@@ -47,7 +47,7 @@ Visual 4 illustrates that North America has the highest average happiness score 
 
 <p>&nbsp;</p>
 
-Visual 5 and visual 6 illustrates that the number of countries by happiness score. North america may have a high average happiness score but isn't composed of the most countries with high happiness scores. Europe and Africa dominates the visuals due to having the most countries reported. Europe is composed of the most countries with higher happiness scores while Africa is composed of the most countries with lower happiness scores. 
+"Visuals 5 and 6 present the distribution of countries based on their happiness scores. Despite North America showing a high average happiness score, it doesn't comprise the largest number of countries with high happiness scores. Europe and Africa stand out in these visuals due to their higher representation in reported countries. Europe hosts the most countries with higher happiness scores, while Africa contains the most countries with lower happiness scores."
 
 <table>
 <tr><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_05.png"  width="570" height="380"> </th><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_06.png"  width="570" height="380"></th></tr>
@@ -67,6 +67,34 @@ Visual 7 illustrates the correlations between country features in 2023.
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_07.png"  width="700" height="580"> | 
 |:--:| 
 | *Visual 7; Country feature correlations* | 
+
+<table>
+<tr><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_17.png.jpg"  width="300" height="200"> </th><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_18.png.jpg"  width="340" height="240"></th></tr>
+<tr><td>
+   
+*Visual 5; Distribution of happiness scores by region*
+</td><td>
+   
+*Visual 6; Country feature correlations*
+</td></tr> 
+</table>
+
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_08.png"  width="700" height="580"> | 
+|:--:| 
+| *Visual 7; Country feature correlations* | 
+
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_09.png"  width="700" height="580"> | 
+|:--:| 
+| *Visual 7; Country feature correlations* | 
+
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_10.png"  width="700" height="580"> | 
+|:--:| 
+| *Visual 7; Country feature correlations* | 
+
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_11.png"  width="700" height="580"> | 
+|:--:| 
+| *Visual 7; Country feature correlations* | 
+
 
 <details>
 

@@ -87,9 +87,9 @@ Visual 9 compiles all positive correlations, suggesting that the cluster of coun
 
 Visuals 10 through 15 all depict scatterplots of country features correlated to happiness plotted by country in 2023 in a descending order. The line of best fit is included and illustrates correlation. Social support, GDP, Life expectancy, and Freedom all show positive slopes on their line of best fit, indicating a positive correlation to the Happiness score. Social support has the steepest positive slope. Generosity is shown to have a very horizontal slope comparatively, supporting a lack of correlation to Happiness. Perception of corruption is the only country feature depicting a negative slope, supporting a negative correlation. The scatterplot also depicts that Europe and Africa dominate world happiness, followed by Asia and Latin America.
 
-| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_08.png"  width="600" height="400"> | 
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_08.png"  width="595" height="493"> | 
 |:--:| 
-| *Visual 10; Happiness score and Social support plotted by country in 2023, illustrating a siginificant positive correaltion of 0.83* | 
+| align="center"> *Visual 10; Happiness score and Social support plotted by country in 2023, illustrating a siginificant positive correaltion of 0.83* | 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_09.png"  width="595" height="493"> | 
 |:--:| 
@@ -110,6 +110,20 @@ Visuals 10 through 15 all depict scatterplots of country features correlated to 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_13.png"  width="595" height="493"> | 
 |:--:| 
 | *Visual 15; Happiness score and Perception of corruption plotted by country in 2023, illustrating a negative correaltion of -0.47* | 
+
+<table>
+<tr><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_08.png"  width="595" height="493"> </th><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_09.png"  width="595" height="493"><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_10.png"  width="595" height="493"></th></tr>
+<tr><td>
+   
+*Visual 8; Country featrues correlated to happiness in 2023*
+</td><td>
+   
+*Visual 9; Country featrues with a positive correlation in 2023*
+</td></tr> 
+</table>
+
+
+
 
 
 <details>

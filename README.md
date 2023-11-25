@@ -11,6 +11,12 @@ This analysis draws on data from the World Happiness Report and is divided into 
 + Does a general upward trend in happiness exist? Is happiness globally correlated, or does it predominantly manifest at an individual country level?
 + Can a nation experiencing unhappiness anticipate a progression towards greater happiness over time?
 
+</details>
+
+<details>
+
+<summary>Happiness in 2023s</summary>
+
 ### 2023
 A happiness score surpassing 6 signifies a state of happiness, while a score below 4.5 indicates unhappiness, with scores falling in-between being categorized as moderate.
 
@@ -89,67 +95,30 @@ Visuals 10 through 15 all depict scatterplots of country features correlated to 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_08.png"  width="595" height="493"> | 
 |:--:| 
-| align="center"> *Visual 10; Happiness score and Social support plotted by country in 2023, illustrating a siginificant positive correaltion of 0.83* | 
+| *Visual 10; Happiness score and Social support plotted by country in 2023, <br> illustrating a siginificant positive correaltion of 0.83* | 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_09.png"  width="595" height="493"> | 
 |:--:| 
-| *Visual 11; Happiness score and GDP plotted by country in 2023, illustrating a positive siginificant correaltion of 0.78* | 
+| *Visual 11; Happiness score and GDP plotted by country in 2023, <br> illustrating a positive siginificant correaltion of 0.78* | 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_10.png"  width="595" height="493"> | 
 |:--:| 
-| *Visual 12; Happiness score and Life expectancy plotted by country in 2023, illustrating a siginificant positive correaltion of 0.73* | 
+| *Visual 12; Happiness score and Life expectancy plotted by country in 2023, <br> illustrating a siginificant positive correaltion of 0.73* | 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_11.png"  width="595" height="493"> | 
 |:--:| 
-| *Visual 13; Happiness score and Freedom plotted by country in 2023, illustrating a positive siginificant correaltion of 0.66* | 
+| *Visual 13; Happiness score and Freedom plotted by country in 2023, <br> illustrating a positive siginificant correaltion of 0.66* | 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_12.png"  width="595" height="493"> | 
 |:--:| 
-| *Visual 14; Happiness score and Generosity plotted by country in 2023, illustrating a lack of correlation at 0.05* | 
+| *Visual 14; Happiness score and Generosity plotted by country in 2023, <br> illustrating a lack of correlation at 0.05.* | 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_13.png"  width="595" height="493"> | 
 |:--:| 
-| *Visual 15; Happiness score and Perception of corruption plotted by country in 2023, illustrating a negative correaltion of -0.47* | 
+| *Visual 15; Happiness score and Perception of corruption plotted by country in 2023, <br> illustrating a negative correaltion of -0.47* | 
 
-<table>
-<tr><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_08.png"  width="595" height="493"> </th><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_09.png"  width="595" height="493"><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_10.png"  width="595" height="493"></th></tr>
-<tr><td>
-   
-*Visual 8; Country featrues correlated to happiness in 2023*
-</td><td>
-   
-*Visual 9; Country featrues with a positive correlation in 2023*
-</td></tr> 
-</table>
+</details>
 
-
-
-
-
-<details>
-
-<summary> Happiness in 2023</summary>
-
-### 2023
-
-<img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_02.png"  width="500" height="450">
-
-<img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_03.png"  width="360" height="370">
-
-<img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_04.png"  width="500" height="450">
-
-<img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_05.png"  width="570" height="380">
-
-<img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_06.png"  width="570" height="380">
-
-<img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_07.png"  width="700" height="580">
-
-
-
-
-```ruby
-   puts "Hello World"
-```
 </details>
 
 <details>

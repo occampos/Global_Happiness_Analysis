@@ -140,15 +140,26 @@ A total of 165 countries are represented across the 18-year period. In Visual 17
 <tr><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_01.png"  width="595" height="493"> </th><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_02.png" width="200" height="500"> </th></tr>
 <tr><td>
    
-*Visual 15; Countries reported by year*
+*Visual 16; Countries reported by year*
 </td><td>
    
-*Visual 15; The number of reports by the number of countries*
+*Visual 17; The number of reports by the number of countries*
 </td></tr> 
 </table>
 
+The World Happiness Report covers data from 2005 to 2023, encompassing a total of 18 years. Visual 16 showcases the frequency of reports over time, with each report representing an individual country. The number of reports saw a gradual increase from 2006, reaching an average of 142.33 reports between 2011 and 2019. However, a substantial drop occurred during 2020, 2021, and 2022, followed by a resurgence of reports in 2023. This decline is possibly attributed to countries focusing on global instability during the COVID-19 pandemic, gradually resuming report submissions in 2023.
 
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_01.png"  width="595" height="493"> | 
+|:--:| 
+| *Visual 16; Countries reported by year* | 
 
+<p>&nbsp;</p>
+
+A total of 165 countries are represented across the 18-year period. In Visual 17, the number of reports by the number of countries is detailed. The visualization indicates that the majority of countries have consistently reported every year for the entire span of 18 years, with most nations contributing data for at least 15 years.
+
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_02.png" width="200" height="500"> | 
+|:--:| 
+| *Visual 17; The number of reports by the number of countries* | 
 
 </details>
 

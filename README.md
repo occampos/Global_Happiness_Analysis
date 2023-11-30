@@ -129,7 +129,7 @@ Visuals 10 through 15 all depict scatterplots of country features correlated to 
 
 The World Happiness Report covers data from 2005 to 2023, encompassing a total of 18 years. Visual 16 showcases the frequency of reports over time, with each report representing an individual country. The number of reports saw a gradual increase from 2006, reaching an average of 142.33 reports between 2011 and 2019. However, a substantial drop occurred during 2020, 2021, and 2022, followed by a resurgence of reports in 2023. This decline is possibly attributed to countries focusing on global instability during the COVID-19 pandemic, gradually resuming report submissions in 2023.
 
-| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_13.png"  width="595" height="493"> | 
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_01.png"  width="595" height="493"> | 
 |:--:| 
 | *Visual 15; Happiness score and Perception of corruption plotted by country in 2023, <br> illustrating a negative correaltion of -0.47* | 
 
@@ -137,7 +137,7 @@ The World Happiness Report covers data from 2005 to 2023, encompassing a total o
 
 A total of 165 countries are represented across the 18-year period. In Visual 17, the number of reports by the number of countries is detailed. The visualization indicates that the majority of countries have consistently reported every year for the entire span of 18 years, with most nations contributing data for at least 15 years.
 
-| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_13.png"  width="595" height="493"> | 
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_02.png" width="250" height="500"> | 
 |:--:| 
 | *Visual 15; Happiness score and Perception of corruption plotted by country in 2023, <br> illustrating a negative correaltion of -0.47* | 
 

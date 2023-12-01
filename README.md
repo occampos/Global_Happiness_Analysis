@@ -91,7 +91,7 @@ Visual 9 compiles all positive correlations, suggesting that the cluster of coun
 
 <p>&nbsp;</p>
 
-Visuals 10 through 15 all depict scatterplots of country features correlated to happiness plotted by country in 2023 in a descending order. The line of best fit is included and illustrates correlation. Social support, GDP, Life expectancy, and Freedom all show positive slopes on their line of best fit, indicating a positive correlation to the Happiness score. Social support has the steepest positive slope. Generosity is shown to have a very horizontal slope comparatively, supporting a lack of correlation to Happiness. Perception of corruption is the only country feature depicting a negative slope, supporting a negative correlation. The scatterplot also depicts that Europe and Africa dominate world happiness, followed by Asia and Latin America.
+Visuals 10 through 15 all depict scatterplots of country features correlated to happiness by region in 2023 in a descending order. The line of best fit is included and illustrates correlation. Social support, GDP, Life expectancy, and Freedom all show positive slopes on their line of best fit, indicating a positive correlation to the Happiness score. Social support has the steepest positive slope. Generosity is shown to have a very horizontal slope comparatively, supporting a lack of correlation to Happiness. Perception of corruption is the only country feature depicting a negative slope, supporting a negative correlation. The scatterplot also depicts that Europe and Africa dominate world happiness, followed by Asia and Latin America.
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_08.png"  width="595" height="493"> | 
 |:--:| 
@@ -111,7 +111,7 @@ Visuals 10 through 15 all depict scatterplots of country features correlated to 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_12.png"  width="595" height="493"> | 
 |:--:| 
-| *Visual 14; Happiness score and Generosity plotted by country in 2023, <br> illustrating a lack of correlation at 0.05.* | 
+| *Visual 14; Happiness score and Generosity plotted by country in 2023, <br> illustrating a lack of correlation at 0.04* | 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_13.png"  width="595" height="493"> | 
 |:--:| 
@@ -145,7 +145,7 @@ A total of 165 countries are represented across the 18-year period. In Visual 17
 <tr><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_03.png" width="595" height="493"> </th><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_02.png" width="200" height="500"> </th></tr>
 <tr><td>
    
-*Visual 17; Number of reports by the number of countrie*
+*Visual 17; Number of reports by the number of countries*
 </td><td>
    
 *Visual 18; Table of number of reports by the number of countries*
@@ -166,35 +166,43 @@ The global trend of happiness differs greatly from regional trends. Visual 20 hi
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_05.png" width="800" height="600"> | 
 |:--:| 
-| *Visual 20; happiness* | 
+| *Visual 20; Happiness over time by region* | 
+
+<p>&nbsp;</p>
+
+The country feature correlation matrix for all recorded years, depicted by Visual 21, looks very similar to the correlation matrix in 2023. The same country features (GDP, social support, life expectancy and freedom) are shown to be correlated with happiness. Similarly to 2023, generosity has a slight correlation, while perception of corruption has a notable negative correlation. However by plotting each country feature against happiness additional insights and trends are observed.
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_06.png" width="700" height="580"> | 
 |:--:| 
-| *Visual 21* | 
+| *Visual 21; Country feature correlation heatmap in all recorded years* | 
 
-| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_07.png" width="700" height="600"> | 
-|:--:| 
-| *Visual 22* | 
+<p>&nbsp;</p>
+
+Visuals 22 through 26 are scatterplots of country features correlated to happiness by region for all recorded years in a descending order, the line of best fit is also shown and illustrates correlation. Similarly to 2023; Social support, GDP, Life expectancy, and Freedom all indicate a positive correlation to the Happiness score. However, GDP has rep[laced social support as the steepest positive slope, hence higher correlation. Generosity is shown to have a very horizontal slope once again, supporting a lack of correlation to BEEEEEEEEEEEEEEEEEEEEANS Happiness. Perception of corruption is the only country feature depicting a negative slope, supporting a negative correlation. The scatterplot also depicts that Europe and Africa dominate world happiness, followed by Asia and Latin America.
 
 | <img src="https://github.com/occampos/Patterns_In_Happiness/blob/main/Visuals/data_all_years/data_all_years_08.png" width="700" height="600"> | 
 |:--:| 
-| *Visual 23* | 
+| *Visual 22; Happiness score and GDP plotted by country for all recorded years, <br> illustrating a positive siginificant correaltion of 0.78* | 
+
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_07.png" width="700" height="600"> | 
+|:--:| 
+| *Visual 23; Happiness score and Social support plotted by country for all recorded years, <br> illustrating a siginificant positive correaltion of 0.73* | 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_09.png" width="700" height="600"> | 
 |:--:| 
-| *Visual 24* | 
+| *Visual 24; Happiness score and Life expectancy plotted by country for all recorded years, <br> illustrating a siginificant positive correaltion of 0.68* | 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_10.png" width="700" height="600"> | 
 |:--:| 
-| *Visual 24* | 
+| *Visual 24; Happiness score and Freedom plotted by country for all recorded years, <br> illustrating a positive siginificant correaltion of 0.54* | 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_11.png" width="700" height="600"> | 
 |:--:| 
-| *Visual 25* | 
+| *Visual 25*; Happiness score and Generosity plotted by country for all recorded years, <br> illustrating a lack of correlation at 0.17 | 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_12.png" width="700" height="600"> | 
 |:--:| 
-| *Visual 26* | 
+| *Visual 26; Happiness score and Perception of corruption plotted by country for all recorded years, <br> illustrating a negative correaltion of -0.43* | 
 
 
 

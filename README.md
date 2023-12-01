@@ -4,7 +4,7 @@ The World Happiness Report, a publication by the Sustainable Development Solutio
 
 The annual happiness rankings are rooted in life evaluations conducted through the Gallup World Poll. These rankings stem from responses to the principal life evaluation question, utilizing the Cantril ladder. This approach prompts individuals to visualize a scale where 10 signifies the highest possible life satisfaction and 0 signifies the lowest. Respondents are then prompted to assess their own current lives on this scale.
 
-This analysis draws on data from the World Happiness Report and is divided into two sections: one examining the current year of 2023, and the other providing an in-depth assessment across all recorded years.
+This analysis draws on data from the World Happiness Report and is divided into two sections: one examining the current year of 2023, and the other providing an assessment across all recorded years.
 
 *Relveant questuons include:*
 + What country-specific features are most commonly associated with higher levels of happiness?
@@ -22,7 +22,7 @@ A happiness score surpassing 6 signifies a state of happiness, while a score bel
 
 <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/happiness_scale.png">
 
-Visual 1 illustrates that in 2023, the majority of countries reported a state of happiness or moderate happiness, 55 and 54 respectively. Conversely, a minority, comprising of 28 countries, reported an unhappy state. Overall, the global trend for 2023 indicates a prevalence of moderate to higher happiness levels. Visual 2 illustrates that the majority of countries had a happiness score ranging between 5 and 6 in 2023.
+The majority of countries reported a state of happiness or moderate happiness, as shown in Visual 1 as 55 and 54 respectively. Conversely, a minority, comprising of 28 countries, reported an unhappy state. Overall, the global trend for 2023 indicates a prevalence of moderate to higher happiness levels. Visual 2 illustrates that the majority of countries had a happiness score ranging between 5 and 6 in 2023.
 
 <table>
 <tr><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_16.png" width="390" height="370"> </th><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_03.png"  width="411" height="370"></th></tr>
@@ -133,33 +133,90 @@ Visuals 10 through 15 all depict scatterplots of country features correlated to 
 
 The World Happiness Report covers data from 2005 to 2023, encompassing a total of 18 years. Visual 16 showcases the frequency of reports over time, with each report representing an individual country. The number of reports saw a gradual increase from 2006, reaching an average of 142.33 reports between 2011 and 2019. However, a substantial drop occurred during 2020, 2021, and 2022, followed by a resurgence of reports in 2023. This decline is possibly attributed to countries focusing on global instability during the COVID-19 pandemic, gradually resuming report submissions in 2023.
 
-<br>
-A total of 165 countries are represented across the 18-year period. In Visual 17, the number of reports by the number of countries is detailed. The visualization indicates that the majority of countries have consistently reported every year for the entire span of 18 years, with most nations contributing data for at least 15 years.
-
-<table>
-<tr><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_01.png"  width="595" height="493"> </th><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_02.png" width="200" height="500"> </th></tr>
-<tr><td>
-   
-*Visual 16; Countries reported over time*
-</td><td>
-   
-*Visual 17; The number of reports by the number of countries*
-</td></tr> 
-</table>
-
-The World Happiness Report covers data from 2005 to 2023, encompassing a total of 18 years. Visual 16 showcases the frequency of reports over time, with each report representing an individual country. The number of reports saw a gradual increase from 2006, reaching an average of 142.33 reports between 2011 and 2019. However, a substantial drop occurred during 2020, 2021, and 2022, followed by a resurgence of reports in 2023. This decline is possibly attributed to countries focusing on global instability during the COVID-19 pandemic, gradually resuming report submissions in 2023.
-
-| <img src="https://github.com/occampos/Patterns_In_Happiness/blob/main/Visuals/data_all_years/data_all_years_01.png"  width="595" height="493"> | 
+| <img src="https://github.com/occampos/Patterns_In_Happiness/blob/main/Visuals/data_all_years/data_all_years_01.png"  width="700" height="550"> | 
 |:--:| 
 | *Visual 16; Countries reported over time* | 
 
 <p>&nbsp;</p>
 
-A total of 165 countries are represented across the 18-year period. In Visual 17, the number of reports by the number of countries is detailed. The visualization indicates that the majority of countries have consistently reported every year for the entire span of 18 years, with most nations contributing data for at least 15 years.
+A total of 165 countries are represented across the 18-year period. In Visual 17 and 18, the number of reports by the number of countries is detailed. The visualization indicates that the majority of countries have consistently reported every year for the entire span of 18 years, with most nations contributing data for at least 15 years.
 
-| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_03.png" width="595" height="493"> | 
+<table>
+<tr><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_03.png" width="595" height="493"> </th><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_02.png" width="200" height="500"> </th></tr>
+<tr><td>
+   
+*Visual 17; Number of reports by the number of countrie*
+</td><td>
+   
+*Visual 18; Table of number of reports by the number of countries*
+</td></tr> 
+</table>
+
+<p>&nbsp;</p>
+
+Visual 19 shows that until 2019, there had been a general upward trend in the overall happiness of recorded countries worldwide. However, the onset of the COVID pandemic in the year 2020 can be said to have significantly impacted global happiness levels, leading to a notable decline in global happiness. According to the data provided, an indiciation on a rebound in happines after the decline has yet to be observed. 
+
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_04.png" width="800" height="600"> | 
 |:--:| 
-| *Visual 17; The number of reports by the number of countries* | 
+| *Visual 19; Global happiness over time* | 
+
+<p>&nbsp;</p>
+
+The global trend of happiness differs greatly from regional trends. Visual 20 highlights this difference by plotting happiness over time by region. North America contains the fewest countries but maintains the highest average happiness score, while Africa retained the lowest average happiness score. Interestingly, in 2020, certain regions reacted differently to the COVID pandemic compared to the global trend, which experienced a significant decline in happiness scores. Europe had an insignificant shift in happiness during this time, while Latin/South America actually had an increase. In 2020, Latin/South America experienced an increase in average happiness scores despite other regions experiencing a stark decline.
+
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_05.png" width="800" height="600"> | 
+|:--:| 
+| *Visual 20; happiness* | 
+
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_06.png" width="700" height="580"> | 
+|:--:| 
+| *Visual 21* | 
+
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_07.png" width="700" height="600"> | 
+|:--:| 
+| *Visual 22* | 
+
+| <img src="https://github.com/occampos/Patterns_In_Happiness/blob/main/Visuals/data_all_years/data_all_years_08.png" width="700" height="600"> | 
+|:--:| 
+| *Visual 23* | 
+
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_09.png" width="700" height="600"> | 
+|:--:| 
+| *Visual 24* | 
+
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_10.png" width="700" height="600"> | 
+|:--:| 
+| *Visual 24* | 
+
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_11.png" width="700" height="600"> | 
+|:--:| 
+| *Visual 25* | 
+
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_12.png" width="700" height="600"> | 
+|:--:| 
+| *Visual 26* | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </details>
 

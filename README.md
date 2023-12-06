@@ -115,7 +115,7 @@ Visuals 10 through 15 all depict scatterplots of country features correlated to 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_13.png"  width="595" height="493"> | 
 |:--:| 
-| *Visual 15; Happiness score and Perception of corruption plotted by country in 2023, <br> illustrating a negative correaltion of -0.47* | 
+| *Visual 15; Happiness score and Perception of Corruption plotted by country in 2023, <br> illustrating a negative correaltion of -0.47* | 
 
 </details>
 
@@ -202,7 +202,7 @@ Visuals 22 through 26 are scatterplots of country features correlated to happine
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_12.png" width="700" height="600"> | 
 |:--:| 
-| *Visual 26; Happiness score and Perception of corruption plotted by country for all recorded years, <br> illustrating a negative correaltion of -0.43* | 
+| *Visual 26; Happiness score and Perception of Corruption plotted by country for all recorded years, <br> illustrating a negative correaltion of -0.43* | 
 
 
 

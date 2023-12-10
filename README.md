@@ -15,7 +15,7 @@ This analysis draws on data from the World Happiness Report and is divided into 
 
 <details>
 
-<summary>Happiness in 2023s</summary>
+<summary>Happiness in 2023</summary>
 
 ### 2023
 A happiness score surpassing 6 signifies a state of happiness, while a score below 4.5 indicates unhappiness, with scores falling in-between being categorized as moderate.
@@ -91,7 +91,7 @@ Visual 9 compiles all positive correlations, suggesting that the cluster of coun
 
 <p>&nbsp;</p>
 
-Visuals 10 through 15 all depict scatterplots of country features correlated to happiness by region in 2023 in descending order. The line of best fit is included to better illustrate correlation. Correlation is how well the data points fit along the line of best fit. Social support, GDP, life expectancy, and freedom all show data points that are plotted along the line of best fit pretty well, indicating a positive correlation to the happiness score. Social support fits the tightest, while freedom is the most loose, which is shown by their correlation coefficients of 0.83 and 0.66 respectively. Generosity is shown to have very loose fitting data points, supporting a lack of correlation to happiness. Perception of corruption is the only country feature depicting a negative slope, while still falling well along the line of best fit, supporting a negative correlation. The scatterplot also depicts that Europe and Africa dominate world happiness, followed by Asia and Latin America. This is due to the number of countries in each region.
+Visuals 10 through 15 all depict scatterplots of country features correlated to happiness by region in 2023 in descending order. The line of best fit is included to better illustrate correlation. Correlation is shown by how well data points fit along the line of best fit. Social support, GDP, life expectancy, and freedom all show data points that are plotted along the line of best fit pretty well, indicating a positive correlation to the happiness score. Social support fits the tightest, while freedom is the most loose positivdly correlation, which is shown by their correlation coefficients of 0.83 and 0.66 respectively. Generosity is shown to have very loose fitting data points, supporting a lack of correlation to happiness. Perception of corruption is the only country feature depicting a negative slope, while still falling well along the line of best fit, supporting a negative correlation. The scatterplot also depicts that Europe and Africa dominate world happiness, followed by Asia and Latin America. This is due to the number of countries in each region.
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_08.png"  width="595" height="493"> | 
 |:--:| 
@@ -178,7 +178,7 @@ The country feature correlation matrix for all recorded years, depicted by Visua
 
 <p>&nbsp;</p>
 
-Visuals 22 through 26 are scatterplots of country features correlated to happiness by region for all recorded years in a descending order, the line of best fit is also shown and illustrates correlation. Similarly to 2023; Social support, GDP, Life expectancy, and Freedom all indicate a positive correlation to the Happiness score. However, GDP has rep[laced social support as the steepest positive slope, hence higher correlation. Generosity is shown to have a very horizontal slope once again, supporting a lack of correlation to BEEEEEEEEEEEEEEEEEEEEANS Happiness. Perception of corruption is the only country feature depicting a negative slope, supporting a negative correlation. The scatterplot also depicts that Europe and Africa dominate world happiness, followed by Asia and Latin America.
+Visuals 22 through 26 are scatterplots of country features correlated to happiness by region for all recorded years in descending order. Similarly to 2023, social support, GDP, life expectancy, and freedom all indicate a positive correlation to the happiness score. However, GDP has surpassed social support as the most correlated with coefficients at 0.78 and 0.73 respectively. GDP's data points fit the line of best fit the tightest, hence a higher correlation. Generosity is shown to have a very loose fit, supporting a lack of correlation to happiness, and Perception of Corruption shows a negative correlation.
 
 | <img src="https://github.com/occampos/Patterns_In_Happiness/blob/main/Visuals/data_all_years/data_all_years_08.png" width="700" height="600"> | 
 |:--:| 
@@ -197,6 +197,10 @@ Visuals 22 through 26 are scatterplots of country features correlated to happine
 | *Visual 24; Happiness score and Freedom plotted by country for all recorded years, <br> illustrating a positive siginificant correaltion of 0.54* | 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_11.png" width="700" height="600"> | 
+
+<p>&nbsp;</p>
+
+Interestingly, a U shaped pattern can be clearly seen in the plot for Generosity and Happiness Score. This supports that generosity has less value to happiness when happiness is growing or average and while happiness is lower or at its highest generosity is considered to have more value.
 |:--:| 
 | *Visual 25*; Happiness score and Generosity plotted by country for all recorded years, <br> illustrating a lack of correlation at 0.17 | 
 

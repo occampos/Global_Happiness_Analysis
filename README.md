@@ -196,13 +196,17 @@ Visuals 22 through 26 are scatterplots of country features correlated to happine
 |:--:| 
 | *Visual 24; Happiness score and Freedom plotted by country for all recorded years, <br> illustrating a positive siginificant correaltion of 0.54* | 
 
+<p>&nbsp;</p>
+
+Interestingly, a distinct U shaped pattern can be seen in the plot for Generosity against Happiness Score. This supports that Generosity has less value to happiness when happiness is growing or at an average and more value to happiness when happiness is at it's or at it's highest.
+
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_11.png" width="700" height="600"> | 
+|:--:| 
+| *Visual 25*; Happiness score and Generosity plotted by country for all recorded years, <br> illustrating a lack of correlation at 0.17 | 
 
 <p>&nbsp;</p>
 
-Interestingly, a U shaped pattern can be clearly seen in the plot for Generosity and Happiness Score. This supports that generosity has less value to happiness when happiness is growing or average and while happiness is lower or at its highest generosity is considered to have more value.
-|:--:| 
-| *Visual 25*; Happiness score and Generosity plotted by country for all recorded years, <br> illustrating a lack of correlation at 0.17 | 
+Additionally, a steep drop-off of Perception of Corruption is observed after around a Happiness Score of 6.5. This supports that for a country to have the greatest likelihood of achieving the highest happiness levels, the country's Perception of Corruption should fall. However, this also shows that Perception of Corruption isn't valued as much comparatively until a certain level of happiness is achieved.
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_12.png" width="700" height="600"> | 
 |:--:| 

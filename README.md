@@ -212,6 +212,9 @@ Additionally, a steep drop-off of Perception of Corruption is observed after aro
 |:--:| 
 | *Visual 26; Happiness score and Perception of Corruption plotted by country for all recorded years, <br> illustrating a negative correaltion of -0.43* | 
 
+<p>&nbsp;</p>
+
+Variance is a measure that describes the spread of a set of values in a dataset. It quantifies how far individual numbers in a dataset are from the mean and provides insight into the variability or the degree to which data points differ from each other. To help understand what drives happiness in a country, I divided the nations into two groups: those with the highest variance and those with the lowest variance. Visual 27 compares those groups with the global average happiness over time.
 
 
 

@@ -214,10 +214,21 @@ Additionally, a steep drop-off of Perception of Corruption is observed after aro
 
 <p>&nbsp;</p>
 
-Variance is a measure that describes the spread of a set of values in a dataset. It quantifies how far individual numbers in a dataset are from the mean and provides insight into the variability or the degree to which data points differ from each other. To help understand what drives happiness in a country, I divided the nations into two groups: those with the highest variance and those with the lowest variance. Visual 27 compares those groups with the global average happiness over time.
+Variance is a measure that describes the spread of a set of values in a dataset. It quantifies how far individual numbers in a dataset are from the mean and provides insight into the variability or the degree to which data points differ from each other. To help understand what drives happiness in a country, I divided the nations into two groups: those with the highest variance or least stable happiness and those with the lowest variance or most stable happiness. Visual 27 compares those groups with the global average happiness over time. It can be seen that countries with the most stable happiness has a higher average happiness than both the global average and countries with the least stable happiness. This supports that 
 
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_13.png" width="800" height="600"> | 
+|:--:| 
+| *Visual 27; Countries with highest variance in happiness and countries with lowest variance in happiness* | 
 
+| <img src="https://github.com/occampos/Patterns_In_Happiness/blob/main/Visuals/data_all_years/data_all_years_14.png" width="700" height="580"> | 
+|:--:| 
+| *Visual 21; Country feature correlation heatmap in all recorded years* | 
 
+<p>&nbsp;</p>
+
+| <img src="https://github.com/occampos/Patterns_In_Happiness/blob/main/Visuals/data_all_years/data_all_years_15.png" width="700" height="580"> | 
+|:--:| 
+| *Visual 21; Country feature correlation heatmap in all recorded years* | 
 
 
 

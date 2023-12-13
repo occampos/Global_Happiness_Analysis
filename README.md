@@ -257,18 +257,6 @@ Variance is a measure that describes the spread of a set of values in a dataset.
 
 <summary>Conclusions</summary>
 
-| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_05.png"  width="570" height="380"> | 
-|:--:| 
-| *Visual 5; Distribution of happiness scores by region* | 
-
-| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_06.png"  width="570" height="380"> | 
-|:--:| 
-| *Visual 6; Distribution of happiness scores by region* | 
-
-
-| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_16.png" width="350" height="370"> | 
-|:--:| 
-| *Image 1* | 
-
+BEANS
 
 </details>

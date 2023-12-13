@@ -218,19 +218,21 @@ Variance is a measure that describes the spread of a set of values in a dataset.
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_13.png" width="800" height="600"> | 
 |:--:| 
-| *Visual 27; Countries with highest variance in happiness and countries with lowest variance in happiness* | 
+| *Visual 27; Average happiness in countries with highest variance and lowest variance* | 
 
 | <img src="https://github.com/occampos/Patterns_In_Happiness/blob/main/Visuals/data_all_years/data_all_years_14.png" width="700" height="580"> | 
 |:--:| 
-| *Visual 21; Country feature correlation heatmap in all recorded years* | 
+| *Visual 21; Country feature correlation heatmap for countries with lowest varaince in happiness* | 
 
 <p>&nbsp;</p>
 
 | <img src="https://github.com/occampos/Patterns_In_Happiness/blob/main/Visuals/data_all_years/data_all_years_15.png" width="700" height="580"> | 
 |:--:| 
-| *Visual 21; Country feature correlation heatmap in all recorded years* | 
+| *Visual 21; Country feature correlation heatmap for countries with highest varaince in happiness* | 
 
-
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_16.png"  width="300" height="200"> | 
+|:--:| 
+| *Visual 21; Country feature correlation heatmap for countries with highest varaince in happiness* | 
 
 
 

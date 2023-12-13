@@ -232,7 +232,7 @@ Visual 28 and 29 illustrate correlations coeffcients between country features fo
 |:--:| 
 | *Visual 29; Country feature correlation heatmap for countries with highest varaince in happiness* | 
 
-| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_16.png"  width="300" height="200"> | 
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_16.png"  width="546" height="215"> | 
 |:--:| 
 | *Visual 30; Country feature correlation heatmap for countries with highest varaince in happiness* | 
 

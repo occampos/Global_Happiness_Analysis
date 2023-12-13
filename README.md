@@ -214,25 +214,27 @@ Additionally, a steep drop-off of Perception of Corruption is observed after aro
 
 <p>&nbsp;</p>
 
-Variance is a measure that describes the spread of a set of values in a dataset. It quantifies how far individual numbers in a dataset are from the mean and provides insight into the variability or the degree to which data points differ from each other. To help understand what drives happiness in a country, I divided the nations into two groups: those with the highest variance or least stable happiness and those with the lowest variance or most stable happiness. Visual 27 compares those groups with the global average happiness over time. It can be seen that countries with the most stable happiness has a higher average happiness than both the global average and countries with the least stable happiness. This supports that 
+Variance is a measure that describes the spread of a set of values in a dataset. It quantifies how far individual numbers in a dataset are from the mean and provides insight into the variability or the degree to which data points differ from each other. To help understand what drives happiness in a country, I divided the nations into two groups: those with the highest variance (indicating unstable happiness) and those with the lowest variance (indicating stable happiness). Visual 27 compares those groups with the global average happiness over time. It can be seen that countries with the most stable happiness has a higher average happiness than both the global average and countries with the least stable happiness. This supports that as a country reaches a certain level of happiness it is likely to maintain a stable level of happiness.
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_13.png" width="800" height="600"> | 
 |:--:| 
 | *Visual 27; Average happiness in countries with highest variance and lowest variance* | 
 
+<p>&nbsp;</p>
+
+Visual 28 and 29 illustrate correlations coeffcients between country features for the highest variance and lowest varaince countries through heatmaps. Visual 30 shows the difference between the correlation in happiness between the two groups. Interestingly perception of corruption has the greatest difference in correlation at a change of 0.58. This supports that corruption has a smaller impact on happiness in countries that do not have stable happiness and that once a country reaches a certain level of happiness then corruption has a larger effect on happiness. The same can be said for freedom to a less signficiant extent at a difference of 0.35.
+
 | <img src="https://github.com/occampos/Patterns_In_Happiness/blob/main/Visuals/data_all_years/data_all_years_14.png" width="700" height="580"> | 
 |:--:| 
-| *Visual 21; Country feature correlation heatmap for countries with lowest varaince in happiness* | 
-
-<p>&nbsp;</p>
+| *Visual 28; Country feature correlation heatmap for countries with lowest varaince in happiness* | 
 
 | <img src="https://github.com/occampos/Patterns_In_Happiness/blob/main/Visuals/data_all_years/data_all_years_15.png" width="700" height="580"> | 
 |:--:| 
-| *Visual 21; Country feature correlation heatmap for countries with highest varaince in happiness* | 
+| *Visual 29; Country feature correlation heatmap for countries with highest varaince in happiness* | 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_16.png"  width="300" height="200"> | 
 |:--:| 
-| *Visual 21; Country feature correlation heatmap for countries with highest varaince in happiness* | 
+| *Visual 30; Country feature correlation heatmap for countries with highest varaince in happiness* | 
 
 
 

@@ -240,18 +240,14 @@ Visual 30 shows the difference between the correlation in happiness between the 
 |:--:| 
 | *Visual 30; Country feature correlation heatmap for countries with highest varaince in happiness* | 
 
-| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_17.png" width="700" height="600"> | 
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_18.png" width="800" height="600">> | 
 |:--:| 
 | *Visual 31;* | 
 
-
-| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_09.png" width="700" height="600"> | 
-|:--:| 
-| *Visual 24; Happiness score and Life expectancy plotted by country for all recorded years, <br> illustrating a siginificant positive correaltion of 0.68* | 
-
-| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_18.png" width="800" height="600">> | 
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_17.png" width="847" height="600"> | 
 |:--:| 
 | *Visual 32;* | 
+
 
 
 

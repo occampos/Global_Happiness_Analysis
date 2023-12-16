@@ -240,13 +240,23 @@ Visual 30 shows the difference between the correlation in happiness between the 
 |:--:| 
 | *Visual 30; Country feature correlation heatmap for countries with highest varaince in happiness* | 
 
+<p>&nbsp;</p>
+
+Does a country's happiness rely on broader global happiness shifts, or is it primarily reliant on the specific circumstances within each country? Visual 31 illustrates the Happiness Score over time for individual countries (black) contrasted with the global average (yellow). Initially, there seem to be no discernible patterns, giving the appearance of a disorganized jumble. Based on this visual, one might assume that a country's happiness is disconnected from the global average.
+
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_18.png" width="800" height="600">> | 
 |:--:| 
-| *Visual 31;* | 
+| *Visual 31; Happiness over time by country compared to the global average shown in yellow* | 
+
+<p>&nbsp;</p>
+
+Visual 32 is a table describing the correlation to global average by country while visual 32 illustrates it on a graph. On average a country is slightly positively correlated to the global average but for the most part happiness is seen to be most influence at an individual country level. In general no region had a discernable pattern despite having significant differencees in average happiness, supporting that happiness isnt heavily dependent on global shifts.
+
+INSERT .DESCRIBE()
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_17.png" width="847" height="600"> | 
 |:--:| 
-| *Visual 32;* | 
+| *Visual 33; Individual country happiness correlation to global average happiness* | 
 
 
 

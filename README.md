@@ -8,9 +8,12 @@ This analysis draws on data from the World Happiness Report and is divided into 
 
 *Relveant questuons include:*
 + What country-specific features are most commonly associated with higher levels of happiness?
-+ Does a general upward trend in happiness exist? Is happiness globally correlated, or does it predominantly manifest at an individual country level?
++ Does a general upward trend in happiness exist?
++ Do nations experiencing an above average happiness likely to mantain its happiness?
++ Is happiness globally correlated, or does it predominantly manifest at an individual country level?
 + Can a nation experiencing unhappiness anticipate a progression towards greater happiness over time?
-
++ Has the pandemic in 2020 impacted the world consistenly?
+  
 </details>
 
 <details>
@@ -250,13 +253,16 @@ Does a country's happiness rely on broader global happiness shifts, or is it pri
 
 <p>&nbsp;</p>
 
-Visual 32 is a table describing the correlation to global average by country while visual 32 illustrates it on a graph. On average a country is slightly positively correlated to the global average but for the most part happiness is seen to be most influence at an individual country level. In general no region had a discernable pattern despite having significant differencees in average happiness, supporting that happiness isnt heavily dependent on global shifts.
+Visual 32 is a table describing the correlation to global average by country while visual 34 illustrates it on a scatterplot. On average, individual countries are slightly positively correlated to the global average at () but are more shown to be influenced by local circumstances. Notably, no region has a discernable pattern despite having significant differencees in average happiness, supporting that a single country's happiness isnt primarily driven by global shifts. 
 
-INSERT .DESCRIBE()
+INSERT .DESCRIBE()  & INSERT TOP/BOTTOM Correlated countries
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_17.png" width="847" height="600"> | 
 |:--:| 
-| *Visual 33; Individual country happiness correlation to global average happiness* | 
+| *Visual 34; Individual country happiness correlation to global average happiness* | 
+
+Can a nation experiencing unhappiness anticipate a progression towards greater happiness over time? This questoin can be studied by focusing on patterns arising after a certain amount of consecutive years. Is an outcome for common after just two years? or is there a prevelent pattern after 15 years?
+
 
 
 

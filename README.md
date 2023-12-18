@@ -225,9 +225,9 @@ Variance describes the spread of a set of values in a dataset. It quantifies how
 
 <p>&nbsp;</p>
 
-Visual 28 and 29 illustrate correlation coefficients between features for the highest variance and lowest variance countries through heatmaps. Happiness Score, GDP, Social Support, and Life Expectancy remain positively correlated to one another in both of the two groups albeit the lowest varaince countries have a noticiblky weaker correlation in general. <br>
-Notably, Generosity is negatively correlated to GDP and Social Support when variance is high, while there is little correlation when variance is low. This possibly hints that generosity is impactful only when countries are experiecing stability in happiness; as countries acheive stability in happiness, Generosity holds less value. <br>
-Freedom shifts from being positively correlated to other features in low variation countries to a much weaker correlation for most features in high variation countries. This supports that Freedom plays a less impactiful role in happiness when countries have variable happiness. Perception of Corruption also shifts from being highly negatively correlated in low variation countries to no correlation or slightly negative correlation in high variation countries. This supports the idea that corruption is more impactful on happiness when happiness is stable.
+Visual 28 and 29 illustrate correlations between features for the highest variance and lowest variance countries through heatmaps. Happiness Score, GDP, Social Support, and Life Expectancy remain positively correlated to one another in both of the two groups, albeit the lowest variance countries have a noticeably weaker correlation in general. <br> 
+Notably, Generosity is negatively correlated to GDP and Social Support when variance is high, while there is little correlation when variance is low. This hints that Generosity is impactful only when countries are experiencing instability in happiness. Freedom shifts from being positively correlated to most features in low variation countries to a much weaker correlation in high variance countries. This supports that Freedom plays a less impactful role in happiness when countries have variable happiness. Similarly, Perception of Corruption also experiences a shift from strong correlation (negative) to a much weaker correlation in countries with variable happiness.
+
 | <img src="https://github.com/occampos/Patterns_In_Happiness/blob/main/Visuals/data_all_years/data_all_years_14.png" width="700" height="580"> | 
 |:--:| 
 | *Visual 28; Country feature correlation heatmap for countries with lowest varaince in happiness* | 
@@ -238,8 +238,11 @@ Freedom shifts from being positively correlated to other features in low variati
 
 <p>&nbsp;</p>
 
-Visual 30 shows the difference between the correlation in happiness between the two groups. Interestingly Perception of Corruption has the greatest difference in correlation at a change of 0.58. This supports that corruption has a smaller impact on happiness in countries that do not have stable happiness and that once a country reaches a certain level of happiness then corruption has a larger effect on happiness. The same can be said for Freedom and GDP to a less significant extent at a difference of 0.35 and 0.26 respectively. Social Support, Generosity, and Life Expectancy show insignificant differences in correlation between the two groups. The data hints that corruption and freedom are seen as less important compared to other things when determining happiness.
+Visual 30 shows the difference between the correlation in happiness between the two groups. Interestingly Perception of Corruption has the greatest difference in correlation at a change of 0.58. This supports that corruption has a smaller impact on happiness in countries that do not have stable happiness and that once a country reaches a certain level of happiness then corruption has a larger effect on happiness. The same can be said for Freedom and GDP to a less significant extent at a difference of 0.35 and 0.26 respectively. Social Support, Generosity, and Life Expectancy show insignificant differences in correlation between the two groups. <br>
+Visual 28, 29 and 30 hints that in countries where variance in happiness is high and thus a combination of problems exist, Freedom and Corruption are not prioritized while Generosity is imeeditly noticed. In contrast, in countries where variance in happiness is low and less problems are presnt, Generosity has less of a noticble impact while attantion can be focused on Freedom and Corruption.
 
+Visual 30 higlights the difference between correlation in happiness between the two groups. Interestingly, Perception of Corruption has the greatest difference in correlation at a change of 0.58. This supports the idea that corruption has a smaller impact on happiness in countries that do not have stable happiness, and once a country reaches a certain level of happiness and thus less problems are immediately present, then corruption has a larger effect on happiness. The same can be said for Freedom and GDP, to a less significant extent, at differences of 0.35 and 0.26 respectively. Social Support, Generosity, and Life Expectancy show insignificant differences in correlation between the two groups. <br>
+Visuals 28, 29, and 30 suggest that in countries where variance in happiness is high, and thus a combination of problems exists, Freedom and Corruption are not prioritized, while Generosity is immediately noticed. In contrast, in countries where variance in happiness is low and fewer problems are present in every day life, Generosity has less of a noticeable impact, and attention can be focused on Freedom and Corruption on a larger scale.
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_16.png" width="546" height="215"> | 
 |:--:| 
@@ -247,13 +250,14 @@ Visual 30 shows the difference between the correlation in happiness between the 
 
 <p>&nbsp;</p>
 
-Does a country's happiness rely on broader global happiness shifts, or is it primarily reliant on the specific circumstances within each country? Visual 31 illustrates the Happiness Score over time for individual countries (black) contrasted with the global average (yellow). Initially, there seem to be no discernible patterns, giving the appearance of a disorganized jumble. Based on this visual, one might assume that a country's happiness is disconnected from the global average.
+Can a country's happiness be traced to wider global happiness trends, or does it predominantly hinge on the unique circumstances within that country? Visual 31 illustrates the Happiness Score over time for individual countries (black) contrasted with the global average (yellow). Initially, there seem to be no discernible patterns, giving the appearance of a disorganized jumble. Based on this visual, one might assume that a country's happiness is disconnected from the global average.
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_18.png" width="800" height="600">> | 
 |:--:| 
 | *Visual 31; Happiness over time by country compared to the global average shown in yellow* | 
 
 <p>&nbsp;</p>
+
 beans
 Visual 32 is a table describing the correlation to global average by country while visual 34 illustrates it on a scatterplot. On average, individual countries are slightly positively correlated to the global average at () but are more shown to be influenced by local circumstances. Notably, no region has a discernable pattern despite having significant differencees in average happiness, supporting that a single country's happiness isnt primarily driven by global shifts. 
 

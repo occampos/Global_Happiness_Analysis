@@ -273,10 +273,25 @@ It's expected to see a correlation of some degree because the global average is 
 |:--:| 
 | *Visual 34; Individual country happiness correlation to global average happiness* | 
 
-Can a nation experiencing unhappiness anticipate a progression towards greater happiness over time? This questoin can be studied by focusing on patterns arising after a certain amount of consecutive years. Is an outcome commonplace after just two years? or is there a prevelent pattern after 15 years?
+<p>&nbsp;</p>
+beans
 
-
-
+Can a nation experiencing unhappiness anticipate a progression towards greater happiness over time? This questoin can be studied by focusing on patterns arising after a certain amount of consecutive years. Is an outcome commonplace after just two years? or is there a prevelent pattern after 15 years? <br>
+Correlation heatmaps are
++ <details> <summary> 2 Consecutive Years </summary> </details>
++ <details> <summary> 3 Consecutive Years </summary> </details>
++ <details> <summary> 4 Consecutive Years </summary> </details>
++ <details> <summary> 5 Consecutive Years </summary> </details>
++ <details> <summary> 6 Consecutive Years </summary> </details>
++ <details> <summary> 7 Consecutive Years </summary> </details>
++ <details> <summary> 8 Consecutive Years </summary> </details>
++ <details> <summary> 9 Consecutive Years </summary> </details>
++ <details> <summary> 10 Consecutive Years </summary> </details>
++ <details> <summary> 12 Consecutive Years </summary> </details>
++ <details> <summary> 13 Consecutive Years </summary> </details>
++ <details> <summary> 14 Consecutive Years </summary> </details>
++ <details> <summary> 15 Consecutive Years </summary> </details>
++ <details> <summary> 16 Consecutive Years </summary> </details>
 
 
 

@@ -258,17 +258,17 @@ Can a country's happiness be traced to wider global happiness trends, or does it
 beans
 The correlation to  33 is a table describing the correlation to the global average by country while visual 34 illustrates it on a scatterplot. On average, individual countries are slightly positively correlated to the global average at () but are more shown to be influenced by local circumstances. Notably, no region has a discernable pattern despite having significant differencees in average happiness, supporting that a single country's happiness isnt primarily driven by global shifts. 
 
-INSERT .DESCRIBE()  & INSERT TOP/BOTTOM Correlated countries
 
-| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_21.png" width="248" height="238"> | 
-|:--:| 
-| *Visual 32; Individual country happiness correlation to global average happiness* | 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_19.png" width="847" height="600"> | 
 |:--:| 
-| *Visual 33; Individual country happiness correlation to global average happiness* | 
+| *Visual 32; Individual country happiness correlation to global average happiness* | 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_20.png" width="847" height="600"> | 
+|:--:| 
+| *Visual 33; Individual country happiness correlation to global average happiness* | 
+
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_21.png" width="248" height="238"> | 
 |:--:| 
 | *Visual 34; Individual country happiness correlation to global average happiness* | 
 

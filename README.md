@@ -255,10 +255,7 @@ Can a country's happiness be traced to wider global happiness trends, or does it
 
 <p>&nbsp;</p>
 
-beans
-The correlation to  33 is a table describing the correlation to the global average by country while visual 34 illustrates it on a scatterplot. On average, individual countries are slightly positively correlated to the global average at () but are more shown to be influenced by local circumstances. Notably, no region has a discernable pattern despite having significant differencees in average happiness, supporting that a single country's happiness isnt primarily driven by global shifts. 
-
-
+By examining correlation from a different perspective, a new pattern emerges. Visual 32 arranges the correlation from the most positive to the most negative, whereas Visual 33 organizes the absolute correlation from the highest to the lowest. Despite countries' diversity in correlation, it's clearly seen in Visual 32 that, on average, correlations tend to be mostly positive. Visual 33 emphasizes the prevalence of correlation, whether negative or positive. The number of countries with an absolute correlation of less than 0.2 is substantially fewer compared to those exceeding 0.2. These observations support that individual countries are significantly influenced by global happiness trends.
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_19.png" width="847" height="600"> | 
 |:--:| 
@@ -268,11 +265,15 @@ The correlation to  33 is a table describing the correlation to the global avera
 |:--:| 
 | *Visual 33; Individual country happiness correlation to global average happiness* | 
 
+<p>&nbsp;</p>
+
+It's expected to see a correlation of some degree because the global average is composed of all recorded countries combined. However, the magnitude becomes evident in visual 34, which also accounts for variance. The mean absolute correlation stands at a level of 0.421, signifying a significant positive relationship. Moreover, the absolute correlation demonstrates minimal variance at 0.051, indicating that country correlations exhibit slight differences from each other. This further supports that countries are influenced by the global average consistently. Solely relying on correlation and not taking into account absolute value might lead to misinterpretation, as the correlation variance notably increases to 0.202, while the mean correlation decreases substantially to 0.168. Hence, this approach fails to present the complete picture.
+
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_21.png" width="248" height="238"> | 
 |:--:| 
 | *Visual 34; Individual country happiness correlation to global average happiness* | 
 
-Can a nation experiencing unhappiness anticipate a progression towards greater happiness over time? This questoin can be studied by focusing on patterns arising after a certain amount of consecutive years. Is an outcome for common after just two years? or is there a prevelent pattern after 15 years?
+Can a nation experiencing unhappiness anticipate a progression towards greater happiness over time? This questoin can be studied by focusing on patterns arising after a certain amount of consecutive years. Is an outcome commonplace after just two years? or is there a prevelent pattern after 15 years?
 
 
 
@@ -302,7 +303,6 @@ Can a nation experiencing unhappiness anticipate a progression towards greater h
 
 
 
-</details>
 
 <details>
 

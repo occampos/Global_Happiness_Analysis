@@ -11,16 +11,8 @@ This analysis draws on data from the World Happiness Report and is divided into 
 + How is happiness influenced by different country features?
 + How do countries that maintain consistent levels of happiness differ from those where happiness levels constantly change?
 + Is happiness globally correlated, or does it predominantly manifest at an individual country level?
-
 + Can a nation experiencing unhappiness generally anticipate a progression towards greater happiness over time?
 + Does a general upward trend in happiness exist?
-+ Has the pandemic in 2020 impacted the world consistenly?
-
-- What country-specific features are most commonly associated with higher levels of happiness?
-+ Does a general upward trend in happiness exist?
-- Do nations experiencing an above average happiness likely to mantain its happiness?
-- Is happiness globally correlated, or does it predominantly manifest at an individual country level?
-+ Can a nation experiencing unhappiness anticipate a progression towards greater happiness over time?
 + Has the pandemic in 2020 impacted the world consistenly?
   
 </details>
@@ -178,7 +170,7 @@ The global trend of happiness differs greatly from regional trends. Visual 20 hi
 
 <p>&nbsp;</p>
 
-### What country-specific features are most commonly associated with higher levels of happiness?
+### How is happiness influenced by different country features?
 
 The country feature correlation matrix for all recorded years, depicted by Visual 21, looks very similar to the correlation matrix in 2023. The same country features (GDP, social support, life expectancy and freedom) are shown to be correlated with happiness. Similarly to 2023, generosity has a slight correlation, while perception of corruption has a notable negative correlation. However by plotting each country feature against happiness additional insights and trends are observed.
 
@@ -256,6 +248,8 @@ Visuals 28, 29, and 30 suggest that in countries where variance in happiness is 
 
 <p>&nbsp;</p>
 
+### Is happiness globally correlated, or does it predominantly manifest at an individual country level?
+
 Can a country's happiness be traced to wider global happiness trends, or does it predominantly hinge on the unique circumstances within that country? Visual 31 illustrates the Happiness Score over time for individual countries (black) contrasted with the global average (yellow). Initially, there seem to be no discernible patterns, giving the appearance of a disorganized jumble. Based on this visual, one might assume that a country's happiness is disconnected from the global average.
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_18.png" width="800" height="600">> | 
@@ -283,9 +277,10 @@ It's expected to see a correlation of some degree because the global average is 
 | *Visual 34; Individual country happiness correlation to global average happiness* | 
 
 <p>&nbsp;</p>
-beans
 
-Can a nation experiencing unhappiness anticipate a progression towards greater happiness over time? This questoin can be studied by focusing on patterns arising after a certain amount of consecutive years. Is an outcome commonplace after just two years? or is there a prevelent pattern after 15 years? <br>
+### Can a nation experiencing unhappiness anticipate a progression towards greater happiness over time?
+
+This questoin can be studied by focusing on patterns arising after a certain amount of consecutive years. Is an outcome commonplace after just two years? or is there a prevelent pattern after 15 years? <br>
 Correlation heatmaps are
 + <details> <summary> 2 Consecutive Years </summary> </details>
 + <details> <summary> 3 Consecutive Years </summary> </details>

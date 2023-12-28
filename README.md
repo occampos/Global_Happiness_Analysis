@@ -1,16 +1,25 @@
 # Patterns in Global Happiness
 
-The World Happiness Report, a publication by the Sustainable Development Solutions Network, draws its insights from Gallup World Poll data. This report mirrors the global plea for greater emphasis on the global call for prioritizing happiness and well-being in governmental policy considerations. It assesses the current global happiness levels and delves into how the study of happiness clarifies the differences in happiness among individuals and nations, emphasizing its significance in policymaking.
+The World Happiness Report, a publication by the Sustainable Development Solutions Network, draws its insights from Gallup World Poll data. This report reflects on the global plea for greater emphasis on the global call for prioritizing happiness and well-being in governmental policy considerations. It assesses the current global happiness levels and delves into how the study of happiness clarifies the differences in happiness among individuals and nations, emphasizing its significance in policymaking.
 
 The annual happiness rankings are rooted in life evaluations conducted through the Gallup World Poll. These rankings stem from responses to the principal life evaluation question, utilizing the Cantril ladder. This approach prompts individuals to visualize a scale where 10 signifies the highest possible life satisfaction and 0 signifies the lowest. Respondents are then prompted to assess their own current lives on this scale.
 
 This analysis draws on data from the World Happiness Report and is divided into two sections: one examining the current year of 2023, and the other providing an assessment across all recorded years.
 
 *Relveant questuons include:*
-+ What country-specific features are most commonly associated with higher levels of happiness?
-+ Does a general upward trend in happiness exist?
-+ Do nations experiencing an above average happiness likely to mantain its happiness?
+
++ How is happiness influenced by different country features?
++ How do countries that maintain consistent levels of happiness differ from those where happiness levels constantly change?
 + Is happiness globally correlated, or does it predominantly manifest at an individual country level?
+
++ Can a nation experiencing unhappiness generally anticipate a progression towards greater happiness over time?
++ Does a general upward trend in happiness exist?
++ Has the pandemic in 2020 impacted the world consistenly?
+
+- What country-specific features are most commonly associated with higher levels of happiness?
++ Does a general upward trend in happiness exist?
+- Do nations experiencing an above average happiness likely to mantain its happiness?
+- Is happiness globally correlated, or does it predominantly manifest at an individual country level?
 + Can a nation experiencing unhappiness anticipate a progression towards greater happiness over time?
 + Has the pandemic in 2020 impacted the world consistenly?
   
@@ -20,7 +29,7 @@ This analysis draws on data from the World Happiness Report and is divided into 
 
 <summary>Happiness in 2023</summary>
 
-### 2023
+### Exploring 2023
 A happiness score surpassing 6 signifies a state of happiness, while a score below 4.5 indicates unhappiness, with scores falling in-between being categorized as moderate.
 
 <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/happiness_scale.png">
@@ -128,11 +137,7 @@ Visuals 10 through 15 all depict scatterplots of country features correlated to 
 
 <summary>Happiness in All Recorded Years</summary>
 
-
-
-
-
-### All Recorded years
+### Exploring All Recorded years
 
 The World Happiness Report covers data from 2005 to 2023, encompassing a total of 18 years. Visual 16 showcases the frequency of reports over time, with each report representing an individual country. The number of reports saw a gradual increase from 2006, reaching an average of 142.33 reports between 2011 and 2019. However, a substantial drop occurred during 2020, 2021, and 2022, followed by a resurgence of reports in 2023. This decline is possibly attributed to countries focusing on global instability during the COVID-19 pandemic, gradually resuming report submissions in 2023.
 
@@ -172,6 +177,8 @@ The global trend of happiness differs greatly from regional trends. Visual 20 hi
 | *Visual 20; Happiness over time by region* | 
 
 <p>&nbsp;</p>
+
+### What country-specific features are most commonly associated with higher levels of happiness?
 
 The country feature correlation matrix for all recorded years, depicted by Visual 21, looks very similar to the correlation matrix in 2023. The same country features (GDP, social support, life expectancy and freedom) are shown to be correlated with happiness. Similarly to 2023, generosity has a slight correlation, while perception of corruption has a notable negative correlation. However by plotting each country feature against happiness additional insights and trends are observed.
 
@@ -216,6 +223,8 @@ Additionally, a steep drop-off of Perception of Corruption is observed after aro
 | *Visual 26; Happiness score and Perception of Corruption plotted by country for all recorded years, <br> illustrating a negative correaltion of -0.43* | 
 
 <p>&nbsp;</p>
+
+### How do countries that maintain consistent levels of happiness differ from those where happiness levels constantly change?
 
 Variance describes the spread of a set of values in a dataset. It quantifies how far numbers in a dataset are from the mean and provides insight into the degree to which data points differ from one another. To help understand what drives an increase in happiness in a country, I divided the nations into two groups: those with the highest variance (indicating unstable happiness) and those with the lowest variance (indicating stable happiness). Visual 27 compares the Happiness Score of those groups with the global average over time. It can be seen that countries with the most variance have a higher average happiness than both the global average and countries with the least variance. This supports that as a country reaches a certain level of happiness it is likely to maintain that happiness.
 

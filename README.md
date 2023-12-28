@@ -29,7 +29,7 @@ This analysis draws on data from the World Happiness Report and is divided into 
 
 <summary>Happiness in 2023</summary>
 
-### Exploring 2023
+### Exploring Happiness 2023
 A happiness score surpassing 6 signifies a state of happiness, while a score below 4.5 indicates unhappiness, with scores falling in-between being categorized as moderate.
 
 <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/happiness_scale.png">
@@ -137,7 +137,7 @@ Visuals 10 through 15 all depict scatterplots of country features correlated to 
 
 <summary>Happiness in All Recorded Years</summary>
 
-### Exploring All Recorded years
+### Exploring Happiness in All Recorded years
 
 The World Happiness Report covers data from 2005 to 2023, encompassing a total of 18 years. Visual 16 showcases the frequency of reports over time, with each report representing an individual country. The number of reports saw a gradual increase from 2006, reaching an average of 142.33 reports between 2011 and 2019. However, a substantial drop occurred during 2020, 2021, and 2022, followed by a resurgence of reports in 2023. This decline is possibly attributed to countries focusing on global instability during the COVID-19 pandemic, gradually resuming report submissions in 2023.
 

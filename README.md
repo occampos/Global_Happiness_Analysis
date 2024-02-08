@@ -26,7 +26,7 @@ A scale is established, a happiness score surpassing 6 signifies a state of happ
 
 <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/happiness_scale.png">
 
-The majority of countries reported a state of happiness (40.1%) or moderateness (39.4%) totalling (79.5%) as displayed in Visual 1. Conversely, a minority of the globe (28 countries or 20.4%) reported unhappiness. Overall, the global trend for 2023 indicates a prevalence of moderate to higher happiness levels. Visual 2 illustrates that the majority of countries had happiness score averages ranging between 5 and 6 in 2023.
+The majority of countries reported a state of happiness (40.1%) or moderateness (39.4%) totaling (79.5%) as displayed in Visual 1. Conversely, a minority of the world (28 countries or 20.4%) reported unhappiness. Overall, the global trend for 2023 indicates a prevalence of moderate to higher happiness levels. Visual 2 illustrates that the majority of countries had happiness score averages ranging between 5 and 6 in 2023.
 
 <table>
 <tr><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_16.png" width="390" height="370"> </th><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_03.png"  width="411" height="370"></th></tr>
@@ -41,7 +41,7 @@ The majority of countries reported a state of happiness (40.1%) or moderateness 
 
 <p>&nbsp;</p>
 
-Visual 3 exhibits the countries boasting the highest and lowest happiness scores in 2023. The disparity between these two groups is substantial, with the highest scores exceeding double the lowest scores in the most extreme instance. Notably, the nations attaining the highest happiness scores are predominantly located in the European region, whereas those registering the lowest scores are primarily situated in the African region.
+Visual 3 exhibits the countries reporting the highest and lowest happiness scores in 2023. The disparity between these two groups is substantial, with the highest scores exceeding double the lowest scores in the most extreme instance. Notably, the nations attaining the highest happiness scores are predominantly located in the European region, whereas those registering the lowest scores are primarily situated in the African region. Visual 3 highlights that the disparity is hinted to be regional.
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_02.png"  width="700" height="500"> | 
 |:--:| 
@@ -49,7 +49,7 @@ Visual 3 exhibits the countries boasting the highest and lowest happiness scores
 
 <p>&nbsp;</p>
 
-Visual 4 depicts North America as having the highest average happiness score, while Africa demonstrates the lowest average happiness score. Remarkably, regions with lower average happiness scores, compared to other regions, exhibit greater variability among individual countries. For instance, the Middle East stands out with the highest variety, showcasing countries with both low and high happiness scores.
+Visual 4 depicts North America as having the highest average happiness score, while Africa demonstrates the lowest average happiness score. Remarkably, regions with lower average happiness scores, compared to other regions, exhibit greater variability among individual countries. For instance, the Middle East stands out with the highest variety, showcasing countries with both low and high happiness scores. 
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_04.png"  width="600" height="450"> | 
 |:--:| 
@@ -57,7 +57,7 @@ Visual 4 depicts North America as having the highest average happiness score, wh
 
 <p>&nbsp;</p>
 
-Visuals 5 and 6 present the distribution of countries based on their happiness scores. Despite North America showing a high average happiness score, it doesn't comprise the largest number of countries. Europe and Africa stand out in these visuals due to their higher representatioN. Europe hosts the most countries with higher happiness scores, while Africa contains the most countries with lower happiness scores.
+Visuals 5 and 6 present the distribution of countries based on their happiness scores. Despite North America showing a high average happiness score, it only represents one country. Europe and Africa stand out in these visuals due to their higher representation. Europe hosts the most countries with higher happiness scores, while Africa contains the most countries with lower happiness scores. Visuals 5 and 6 also highlight that despite having higher or lowert scores on average each region still shows a level of diversity among scores.
 
 <table>
 <tr><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_05.png"  width="570" height="380"> </th><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_06.png"  width="570" height="380"></th></tr>
@@ -72,15 +72,15 @@ Visuals 5 and 6 present the distribution of countries based on their happiness s
 
 <p>&nbsp;</p>
 
-Visual 7 utilizes a heatmap to demonstrate correlations among country features in 2023. Darker shades of blue indicate stronger positive correlations, darker shades of red imply stronger negative correlations and whiter shades imply weaker correlations. Notably, variables intersecting with the Happiness score, GDP, Social support, Life expectancy, and Freedom, exhibit significantly darker shades of blue on the heatmap. This suggests a strong positive correlation among these factors, indicating they are likely to increase together. Generosity appears closer to 0, suggesting it may not have a substantial impact on other country features. Conversely, Perception of corruption is depicted as negatively correlated, supporting the notion that reduced corruption tends to correlate with higher happiness.
+Visual 7 utilizes a heatmap to demonstrate the correlation coefficients between country features in 2023. Darker shades of blue indicate stronger positive correlations, darker shades of red imply stronger negative correlations and whiter shades imply weaker correlations. Notably, variables intersecting with the Happiness score, GDP, Social support, Life expectancy, and Freedom, exhibit significantly darker shades of blue on the heatmap. This suggests a strong positive correlation among these factors, indicating they are likely to increase together. Generosity appears closer to 0, suggesting it may not have a substantial impact on other country features. Conversely, Perception of corruption is depicted as negatively correlated, supporting the notion that reduced corruption tends to correlate with higher happiness.
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_07.png"  width="700" height="580"> | 
 |:--:| 
-| *Visual 7; Country feature correlation heatmap in 2023* | 
+| *Visual 7; Country feature correlation coefficient heatmap in 2023* | 
 
 <p>&nbsp;</p>
 
-Visual 9 compiles all positive correlations, suggesting that the cluster of country features are likely strongly associated with each other. In Visual 8, correlations to happiness are ranked from highest to lowest. Notably, Social support exhibits the highest correlation by a considerable margin, standing at 0.83, followed by GDP at 0.78 and Life expectancy at 0.73. Although still significant, Freedom shows the least correlation among the strongly associated group at 0.66. Perception of corruption is negatively correlated but not significantly so, lying below -0.50 at -0.47.
+Visual 9 compiles all positive correlation coefficients, showing which pairs strongly correlate with one another. In Visual 8, correlation coeffcients against happiness scores are ranked from highest to lowest. Notably, Social support exhibits the highest correlation by a considerable margin, standing at 0.83, followed by GDP at 0.78 and Life expectancy at 0.73. Although still significant, Freedom shows the least correlation among the strongly associated group at 0.66. Perception of corruption is negatively correlated but not significantly so, lying below -0.50 at -0.47.
 
 <table>
 <tr><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_17.png"  width="300" height="200"> </th><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_18.png"  width="340" height="240"></th></tr>
@@ -89,7 +89,7 @@ Visual 9 compiles all positive correlations, suggesting that the cluster of coun
 *Visual 8; Country featrues correlated to happiness in 2023*
 </td><td>
    
-*Visual 9; Country featrues with a positive correlation in 2023*
+*Visual 9; Country featrues with a positive correlation coefficients in 2023*
 </td></tr> 
 </table>
 

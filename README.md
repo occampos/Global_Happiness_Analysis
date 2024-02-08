@@ -22,11 +22,11 @@ This exploratory analysis draws on data from the World Happiness Report and is d
 <summary>Happiness in 2023</summary>
 
 ### Exploring Happiness 2023
-A happiness score surpassing 6 signifies a state of happiness, while a score below 4.5 indicates unhappiness, with scores falling in-between being categorized as moderate.
+A scale is established, a happiness score surpassing 6 signifies a state of happiness, while a score below 4.5 indicates unhappiness, with scores falling in-between being categorized as moderate or indifferent.
 
 <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/happiness_scale.png">
 
-The majority of countries reported a state of happiness or moderate happiness, as shown in Visual 1 as 55 and 54 respectively. Conversely, a minority, comprising of 28 countries, reported an unhappy state. Overall, the global trend for 2023 indicates a prevalence of moderate to higher happiness levels. Visual 2 illustrates that the majority of countries had a happiness score ranging between 5 and 6 in 2023.
+The majority of countries reported a state of happiness (40.1%) or moderateness (39.4%) totalling (79.5%) as displayed in Visual 1. Conversely, a minority of the globe (28 countries or 20.4%) reported unhappiness. Overall, the global trend for 2023 indicates a prevalence of moderate to higher happiness levels. Visual 2 illustrates that the majority of countries had happiness score averages ranging between 5 and 6 in 2023.
 
 <table>
 <tr><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_16.png" width="390" height="370"> </th><th><img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_2023/data_2023_03.png"  width="411" height="370"></th></tr>

@@ -172,7 +172,7 @@ The global trend of happiness differs greatly from regional trends. Visual 20 hi
 
 ### How is happiness influenced by different country features?
 
-The country feature correlation matrix for all recorded years, depicted by Visual 21, looks very similar to the correlation matrix in 2023. The same country features (GDP, social support, life expectancy and freedom) are shown to be correlated with happiness. Similarly to 2023, generosity has a slight correlation, while perception of corruption has a notable negative correlation. However by plotting each country feature against happiness additional insights and trends are observed.
+The country feature correlation matrix for all recorded years, depicted by Visual 21, looks very similar to the correlation matrix in 2023 (Visual 7). The same country features (GDP, social support, life expectancy and freedom) are shown to be correlated with happiness. Similarly to 2023, generosity has a slight correlation, while perception of corruption has a notable negative correlation. However by plotting each country feature against happiness additional insights and trends are observed.
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_06.png" width="700" height="580"> | 
 |:--:| 
@@ -180,7 +180,7 @@ The country feature correlation matrix for all recorded years, depicted by Visua
 
 <p>&nbsp;</p>
 
-Visuals 22 through 26 are scatterplots of country features correlated to happiness by region for all recorded years in descending order. Similarly to 2023, social support, GDP, life expectancy, and freedom all indicate a positive correlation to the happiness score. However, GDP has surpassed social support as the most correlated with coefficients at 0.78 and 0.73 respectively. GDP's data points fit the line of best fit the tightest, hence a higher correlation. Generosity is shown to have a very loose fit, supporting a lack of correlation to happiness, and Perception of Corruption shows a negative correlation.
+Visuals 22 through 26 are scatterplots of country features correlated to happiness by region for all recorded years. Similarly to 2023, social support, GDP, life expectancy, and freedom all indicate a positive correlation to the happiness score. However, GDP has barely surpassed social support as the most correlated with coefficients at 0.78 and 0.73 respectively. GDP's data points fit the line of best fit the tightest, hence a stronger correlation. Generosity is shown to have a very loose fit, supporting a lack of correlation to happiness, and Perception of Corruption shows a negative correlation.
 
 | <img src="https://github.com/occampos/Patterns_In_Happiness/blob/main/Visuals/data_all_years/data_all_years_08.png" width="700" height="600"> | 
 |:--:| 
@@ -218,7 +218,7 @@ Additionally, a steep drop-off of Perception of Corruption is observed after aro
 
 ### How do countries that maintain consistent levels of happiness differ from those where happiness levels constantly change?
 
-Variance describes the spread of a set of values in a dataset. It quantifies how far numbers in a dataset are from the mean and provides insight into the degree to which data points differ from one another. To help understand what drives an increase in happiness in a country, I divided the nations into two groups: those with the highest variance (indicating unstable happiness) and those with the lowest variance (indicating stable happiness). Visual 27 compares the Happiness Score of those groups with the global average over time. It can be seen that countries with the most variance have a higher average happiness than both the global average and countries with the least variance. This supports that as a country reaches a certain level of happiness it is likely to maintain that happiness.
+Variance describes the spread of a set of values in a dataset. It quantifies how far numbers in a dataset are from the mean and provides insight into the degree to which data points differ from one another. To help understand what drives an increase in happiness in a country, I divided the nations into two groups: those with the highest variance (indicating unstable happiness) and those with the lowest variance (indicating stable happiness). Visual 27 compares the Happiness Score of those groups with the global average over time. It can be seen that countries with the most variance have a lower average happiness than both the global average and countries with the least variance. This supports that as a country reaches a certain level of happiness it is likely to maintain that happiness.
 
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_13.png" width="800" height="600"> | 
 |:--:| 

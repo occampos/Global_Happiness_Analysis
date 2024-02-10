@@ -227,7 +227,9 @@ Variance describes the spread of a set of values in a dataset. It quantifies how
 <p>&nbsp;</p>
 
 Visual 28 and 29 illustrate correlations between features for the highest variance and lowest variance countries through heatmaps. Happiness Score, GDP, Social Support, and Life Expectancy remain positively correlated to one another in both of the two groups, albeit the lowest variance countries have a noticeably weaker correlation in general. <br> 
-Notably, Generosity is negatively correlated to GDP and Social Support when variance is high, while there is little correlation when variance is low. This hints that Generosity is impactful only when countries are experiencing instability in happiness. Freedom shifts from being positively correlated to most features in low variation countries to a much weaker correlation in high variance countries. This supports that Freedom plays a less impactful role in happiness when countries have variable happiness. Similarly, Perception of Corruption also experiences a shift from strong correlation (negative) to a much weaker correlation in countries with variable happiness.
+Notably, Generosity is negatively correlated to GDP and Social Support when variance is high, while there is little correlation when variance is low. This hints that Generosity is impactful only when countries are experiencing instability in happiness (when happines is likely to be lower). <br> 
+Freedom shifts from being positively correlated to most features in low variation countries to a much weaker correlation in high variance countries. This supports that Freedom plays a less impactful role in happiness when countries have variable happiness (when happines is likely to be lower). <br> 
+Similarly, Perception of Corruption also experiences a shift from strong correlation (negative) to a much weaker correlation in countries with variable happiness.
 
 | <img src="https://github.com/occampos/Patterns_In_Happiness/blob/main/Visuals/data_all_years/data_all_years_14.png" width="700" height="580"> | 
 |:--:| 

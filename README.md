@@ -282,24 +282,18 @@ It's expected to see a correlation of some degree because the global average is 
 
 ### Can a nation experiencing unhappiness anticipate a progression towards greater happiness over time?
 
-This questoin can be studied by focusing on patterns arising after a certain amount of consecutive years. Is an outcome commonplace after just two years? or is there a prevelent pattern after 15 years? <br>
-Correlation heatmaps are
-+ <details> <summary> 2 Consecutive Years </summary> </details>
-+ <details> <summary> 3 Consecutive Years </summary> </details>
-+ <details> <summary> 4 Consecutive Years </summary> </details>
-+ <details> <summary> 5 Consecutive Years </summary> </details>
-+ <details> <summary> 6 Consecutive Years </summary> </details>
-+ <details> <summary> 7 Consecutive Years </summary> </details>
-+ <details> <summary> 8 Consecutive Years </summary> </details>
-+ <details> <summary> 9 Consecutive Years </summary> </details>
-+ <details> <summary> 10 Consecutive Years </summary> </details>
-+ <details> <summary> 12 Consecutive Years </summary> </details>
-+ <details> <summary> 13 Consecutive Years </summary> </details>
-+ <details> <summary> 14 Consecutive Years </summary> </details>
-+ <details> <summary> 15 Consecutive Years </summary> </details>
-+ <details> <summary> 16 Consecutive Years </summary> </details>
+This question can be studied by focusing on patterns arising after a certain amount of years. Is an outcome commonplace after just two years? or does a prevelent pattern emerge after 15 years? <br>
+Visiual 35 shows the difference in happiness score by the difference in years globally. An interesting observation is that it is rare or difficult for a nations happiness score to change signfiicantly weather the difference is 2 years or 17 years. The largest changes around around 3 units while the average is much closer to 0 units, which is barely any change at all. This hints that happiness in a country is a very large scale and complex problem that requires decades to affect. Initially a very small but consistent trend upward is seen globally. As the difference in years increases the differences in happiness also trends upwards albeit very minimally. When the difference of years reaches 18 a significant spike downwards occurs. This can be interpreted as nations having a weak relationship between happiness and time and is overpowered by other factors or major events such as a Pandemic.
 
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_22.png" width="800" height="600"> | 
+|:--:| 
+| *Visual 35; Global Average Difference in Happiness Score Over Time* | 
 
+Visual 36 reveales a closer look at the difference in happiness score over time by highlighting regional patterns. South/Central America is has the most notable increase, showing a difference in happiness overtime that is much more signifcant than any other region. While the Middle East is shown to slowly regress lower much more than any other region. A shared trait of almost all regions is that the most recent year shows a spike downward possibly due to the pandemic. This hints that the pandemic had a major impact on happiness in a nation so much so that it decreases happniess lower than over a decade prior. 
+
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_23.png" width="800" height="600"> | 
+|:--:| 
+| *Visual 36; Average Difference in Happiness Score Over Time by Region* | 
 
 
 

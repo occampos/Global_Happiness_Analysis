@@ -303,7 +303,9 @@ Visual 36 reveals a closer look at the difference in happiness score over time b
 
 ### How is happiness influenced by different country features?
 
-The country features I focused on in this analysis include: Log GDP per Capita, Life Expectancy, Happiness Score, Social Support Score, Freedom Score, Generosity Score, and Perception of Corruption Score. Happiness score is dervived by using The Cantril Ladder while the Social Support Score, Freedom Score, Generosity Score, and Perception of Corruption Score are derived from interview style questions.
+The country features focused on in this analysis include: Log GDP per Capita, Life Expectancy, Social Support Score, Freedom Score, Generosity Score, and Perception of Corruption Score. Their relationship to Happiness Score is analyzed
+
+Happiness score is dervived by using The Cantril Ladder while the Social Support Score, Freedom Score, Generosity Score, and Perception of Corruption Score are derived from interview style questions.
 
 
 ### How do countries that maintain consistent levels of happiness differ from those where happiness is constantly changing?

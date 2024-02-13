@@ -2,7 +2,7 @@
 
 The World Happiness Report, a publication by the Sustainable Development Solutions Network, draws its insights from Gallup World Poll data. This report reflects on the global call for a greater emphasis on prioritizing happiness and well-being in governmental policy considerations. It measures happiness around the globe and delves into how happiness differs among individuals and nations, highlighting its significance in policymaking.
 
-The annual happiness rankings are rooted in life evaluations conducted through the Gallup World Poll. These rankings stem from responses to the principal life evaluation question, utilizing the Cantril ladder. This approach prompts individuals to visualize a scale where 10 signifies the highest possible life satisfaction and 0 signifies the lowest. Respondents are then prompted to assess their own current lives on this scale.
+The annual happiness rankings are rooted in life evaluations conducted through the Gallup World Poll. These rankings stem from responses to the principal life evaluation question, utilizing the Cantril ladder. The Cantril ladder, also known as the Cantril Self-Anchoring Scale or the Cantril Scale, is a tool used to measure individuals' subjective well-being or life satisfaction. It was developed by psychologist Hadley Cantril in the 1960s. The scale asks respondents to imagine a ladder with steps numbered from 0 to 10, where 0 represents the worst possible life and 10 represents the best possible life. The respondents' assessments on their own current lives on this scale is the Happiness Score. Respondents are also asked additional questions, assessing their perspective on their lives to derive addiotional scores such as the Social Support Score, the Freedom Score, the Generosity Score, and the Perception of Corruption Score.
 
 This exploratory analysis draws on data from the World Happiness Report and is divided into two sections: A focused look of the year of 2023, followed by an assessment across all recorded years.
 
@@ -302,6 +302,10 @@ Visual 36 reveals a closer look at the difference in happiness score over time b
 <summary>Conclusions</summary>
 
 ### How is happiness influenced by different country features?
+
+The country features I focused on in this analysis include: Log GDP per Capita, Life Expectancy, Happiness Score, Social Support Score, Freedom Score, Generosity Score, and Perception of Corruption Score. Happiness score is dervived by using The Cantril Ladder while the Social Support Score, Freedom Score, Generosity Score, and Perception of Corruption Score are derived from interview style questions.
+
+
 ### How do countries that maintain consistent levels of happiness differ from those where happiness is constantly changing?
 ### Is there a global correlation in happiness, or is happiness primarily manifested at an individual countriy level?
 ### Can a nation experiencing low happiness generally anticipate a progression towards higher happiness over time?

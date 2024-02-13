@@ -1,4 +1,4 @@
-# Patterns in Global Happiness
+# Patterns and Trends in Global Happiness
 
 The World Happiness Report, a publication by the Sustainable Development Solutions Network, draws its insights from Gallup World Poll data. This report reflects on the global call for a greater emphasis on prioritizing happiness and well-being in governmental policy considerations. It measures happiness around the globe and delves into how happiness differs among individuals and nations, highlighting its significance in policymaking.
 
@@ -296,34 +296,16 @@ Visual 36 reveals a closer look at the difference in happiness score over time b
 |:--:| 
 | *Visual 36; Average Difference in Happiness Score Over Time by Region* | 
 
-
-
-
-
-
-
-
-
-
 </details>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <details>
-
 <summary>Conclusions</summary>
 
-BEANS
+### How is happiness influenced by different country features?
+### How do countries that maintain consistent levels of happiness differ from those where happiness is constantly changing?
+### Is there a global correlation in happiness, or is happiness primarily manifested at an individual countriy level?
+### Can a nation experiencing low happiness generally anticipate a progression towards higher happiness over time?
+### Does a general trend in happiness exist?
+### How has COVID-19 affected happiness?
 
 </details>

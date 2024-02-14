@@ -35,7 +35,7 @@ In analyzing correlations across all recorded years, it is evident that Log GDP 
 
 <details>
    
-<summary>Happiness in 2023</summary>
+<summary> Analysis of Happiness in 2023</summary>
 
 ### Exploring Happiness 2023
 A scale is established, a happiness score surpassing 6 signifies a state of happiness, while a score below 4.5 indicates unhappiness, with scores falling in-between being categorized as moderate or indifferent.
@@ -141,7 +141,7 @@ Visuals 10 through 15 all depict scatterplots of country features to happiness s
 
 <details>
 
-<summary>Happiness in All Recorded Years</summary>
+<summary> Analysis of Happiness in All Recorded Years</summary>
 
 ### Exploring Happiness in All Recorded Years
 

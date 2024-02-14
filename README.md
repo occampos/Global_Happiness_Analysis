@@ -23,7 +23,7 @@ This exploratory analysis draws on data from the World Happiness Report and is d
 
 In analyzing correlations from 2005 to 2023, it is evident that Log GDP per Capita, Life Expectancy, and Social Support exhibit the strongest positive associations with Happiness Score. Freedom also shows a positive correlation, albeit to a lesser degree. Generosity demonstrates a slight positive relationship, while Perception of Corruption displays a modest yet noteworthy negative correlation. These findings are supported by the heatmap displayed in [Visual 21](#visual_21). 
 
-The impact of country features on happiness varies between nations with high and low variance in Happiness Scores. Notably, countries with high happiness exhibit less variance, while those with lower happiness tend to display more variance. Generally features in countries with high variance show weaker associations with happiness, visualized in [Visual 27](#visual_27). This suggests that individuals in comparatively challenging situations may experience happiness regardless, while individuals in countries with higher happiness levels are more influenced by their circumstances. The relationship between Life Expectancy and Happiness Score remains consistent across both groups, indicating long lifespans as important regardless of a nation's happiness level. However, the association with Perception of Corruption differs significantly between the two groups. In countries with low variance, it is heavily negatively correlated, whereas in countries with high variance, there is no correlation. This implies that corruption has a diminished impact on individuals' lives when they face more pressing concerns and that concerns about corruption represent a luxury afforded to individuals in less problematic life situations. These findings are supported by the heatmap displayed in [Visual 28 and Visual 29](#visual_28_29).  
+The impact of country features on happiness varies between nations with high and low variance in Happiness Scores. Notably, countries with high happiness exhibit less variance, while those with lower happiness tend to display more variance. Generally features in countries with high variance show weaker associations with happiness, visualized in [Visual 27](#visual_27). This suggests that individuals in comparatively challenging situations may experience happiness regardless, while individuals in countries with higher happiness levels are more influenced by their circumstances. The relationship between Life Expectancy and Happiness Score remains consistent across both groups, indicating long lifespans as important regardless of a nation's happiness level. However, the association with Perception of Corruption differs significantly between the two groups. In countries with low variance, it is heavily negatively correlated, whereas in countries with high variance, there is no correlation. This implies that corruption has a diminished impact on individuals' lives when they face more pressing concerns and that concerns about corruption represent a luxury afforded to individuals in less problematic life situations. These findings are supported by the heatmap displayed in [Visual 28](#visual_28) and [Visual 29](#visual_29).  
 
 ** look at features over time, change cmap vmin and vmax**
 
@@ -252,11 +252,12 @@ Notably, Generosity is negatively correlated to GDP and Social Support when vari
 Freedom shifts from being positively correlated to most features in low variation countries to a much weaker correlation in high variance countries. This supports that Freedom plays a less impactful role in happiness when countries have variable happiness (when happines is likely to be lower). <br> 
 Similarly, Perception of Corruption also experiences a shift from strong correlation (negative) to a much weaker correlation in countries with variable happiness.
 
-<a id="visual_28_29"></a>
+<a id="visual_28"></a>
 | <img src="https://github.com/occampos/Patterns_In_Happiness/blob/main/Visuals/data_all_years/data_all_years_14.png" width="700" height="580"> | 
 |:--:| 
 | *Visual 28; Country feature correlation heatmap for countries with lowest varaince in happiness* | 
 
+<a id="visual_29"></a>
 | <img src="https://github.com/occampos/Patterns_In_Happiness/blob/main/Visuals/data_all_years/data_all_years_15.png" width="700" height="580"> | 
 |:--:| 
 | *Visual 29; Country feature correlation heatmap for countries with highest varaince in happiness* | 

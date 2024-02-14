@@ -16,32 +16,6 @@ This exploratory analysis draws on data from the World Happiness Report and is d
 + Has the pandemic in 2020 impacted the world consistenly?
 
 <details>
-<summary>Conclusions</summary>
-
-## How is happiness influenced by different country features?
-
-In analyzing correlations across all recorded years, it is evident that Log GDP per Capita, Life Expectancy, and Social Support exhibit the strongest positive associations with Happiness Score. Freedom also shows a positive correlation, albeit to a lesser degree. Generosity demonstrates a slight positive relationship, while Perception of Corruption displays a modest yet noteworthy negative correlation. These findings are supported by the heatmap displayed in [Visual 21](#visual_21)
-
-."
-
-When correlation is measured spanning all recorded years it's seen that Log GDP per Capita, Life Expectancy, and Social Support have the strongest positive relatioships with Happines Score while Freedom Score is also positively correlated to a weaker but still significant extent. Generosity is seen to have a slightly positive relationship and Perception of Corruption had a mildly signfiicant negative correlation. 
-
-
-The country features focused on in this analysis include: Log GDP per Capita, Life Expectancy, Social Support Score, Freedom Score, Generosity Score, and Perception of Corruption Score. Their relationship to Happiness Score is analyzed
-
-Happiness score is dervived by using The Cantril Ladder while the Social Support Score, Freedom Score, Generosity Score, and Perception of Corruption Score are derived from interview style questions.
-
-
-## How do countries that maintain consistent levels of happiness differ from those where happiness is constantly changing?
-
-## Is there a global correlation in happiness, or is happiness primarily manifested at an individual countriy level?
-## Can a nation experiencing low happiness generally anticipate a progression towards higher happiness over time?
-## Does a general trend in happiness exist?
-## How has COVID-19 affected happiness?
-
-</details>
-
-<details>
 
 <summary>Happiness in 2023</summary>
 
@@ -196,7 +170,6 @@ The global trend of happiness differs greatly from regional trends. Visual 20 hi
 
 The country feature correlation matrix for all recorded years, depicted by Visual 21, looks very similar to the correlation matrix in 2023 (Visual 7). The same country features (GDP, social support, life expectancy and freedom) are shown to be correlated with happiness. Similarly to 2023, generosity has a slight correlation, while perception of corruption has a notable negative correlation. However by plotting each country feature against happiness additional insights and trends are observed.
 
-<a id="visual_21"></a>
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_06.png" width="700" height="580"> | 
 |:--:| 
 | *Visual 21; Country feature correlation heatmap in all recorded years* | 
@@ -318,5 +291,22 @@ Visual 36 reveals a closer look at the difference in happiness score over time b
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_23.png" width="800" height="600"> | 
 |:--:| 
 | *Visual 36; Average Difference in Happiness Score Over Time by Region* | 
+
+</details>
+
+<details>
+<summary>Conclusions</summary>
+
+## How is happiness influenced by different country features?
+
+In analyzing correlations across all recorded years, it is evident that Log GDP per Capita, Life Expectancy, and Social Support exhibit the strongest positive associations with Happiness Score. Freedom also shows a positive correlation, albeit to a lesser degree. Generosity demonstrates a slight positive relationship, while Perception of Corruption displays a modest yet noteworthy negative correlation. These findings are supported by the heatmap displayed in [Visual 21](images/data_all_years_06.png)
+
+
+## How do countries that maintain consistent levels of happiness differ from those where happiness is constantly changing?
+
+## Is there a global correlation in happiness, or is happiness primarily manifested at an individual countriy level?
+## Can a nation experiencing low happiness generally anticipate a progression towards higher happiness over time?
+## Does a general trend in happiness exist?
+## How has COVID-19 affected happiness?
 
 </details>

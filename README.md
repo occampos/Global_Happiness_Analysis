@@ -1,6 +1,6 @@
 # Patterns and Trends in Global Happiness
 
-The World Happiness Report, a publication by the Sustainable Development Solutions Network, draws its insights from Gallup World Poll data. This report reflects on the global call for a greater emphasis on prioritizing happiness and well-being in governmental policy considerations. It measures happiness around the globe and delves into how happiness differs among individuals and nations, highlighting its significance in policymaking.<a id="image-link"></a>
+The World Happiness Report, a publication by the Sustainable Development Solutions Network, draws its insights from Gallup World Poll data. This report reflects on the global call for a greater emphasis on prioritizing happiness and well-being in governmental policy considerations. It measures happiness around the globe and delves into how happiness differs among individuals and nations, highlighting its significance in policymaking.
 
 The annual happiness rankings are rooted in life evaluations conducted through the Gallup World Poll. These rankings stem from responses to the principal life evaluation question, utilizing the Cantril ladder. The Cantril ladder, also known as the Cantril Self-Anchoring Scale or the Cantril Scale, is a tool used to measure individuals' subjective well-being or life satisfaction. It was developed by psychologist Hadley Cantril in the 1960s. The scale asks respondents to imagine a ladder with steps numbered from 0 to 10, where 0 represents the worst possible life and 10 represents the best possible life. The respondents' assessments on their own current lives on this scale is the Happiness Score. Respondents are also asked additional questions, assessing their perspective on their lives to derive addiotional scores such as the Social Support Score, the Freedom Score, the Generosity Score, and the Perception of Corruption Score.
 
@@ -15,8 +15,6 @@ This exploratory analysis draws on data from the World Happiness Report and is d
 + Does a general upward trend in happiness exist?
 + Has the pandemic in 2020 impacted the world consistenly?
   
-</details>
-
 <details>
 
 <summary>Happiness in 2023</summary>
@@ -304,7 +302,8 @@ Visual 36 reveals a closer look at the difference in happiness score over time b
 
 ## How is happiness influenced by different country features?
 
-In analyzing correlations across all recorded years, it is evident that Log GDP per Capita, Life Expectancy, and Social Support exhibit the strongest positive associations with Happiness Score. Freedom also shows a positive correlation, albeit to a lesser degree. Generosity demonstrates a slight positive relationship, while Perception of Corruption displays a modest yet noteworthy negative correlation. These findings are supported by the heatmap displayed in [Visual 21](#visual_21)
+In analyzing correlations across all recorded years, it is evident that Log GDP per Capita, Life Expectancy, and Social Support exhibit the strongest positive associations with Happiness Score. Freedom also shows a positive correlation, albeit to a lesser degree. Generosity demonstrates a slight positive relationship, while Perception of Corruption displays a modest yet noteworthy negative correlation. These findings are supported by the heatmap displayed in [Visual 21](#visual_21) <a href="#" onclick="openDetails(); document.getElementById('visual_21').scrollIntoView(true);">Go to Image</a>
+
 ."
 
 When correlation is measured spanning all recorded years it's seen that Log GDP per Capita, Life Expectancy, and Social Support have the strongest positive relatioships with Happines Score while Freedom Score is also positively correlated to a weaker but still significant extent. Generosity is seen to have a slightly positive relationship and Perception of Corruption had a mildly signfiicant negative correlation. 
@@ -321,6 +320,5 @@ Happiness score is dervived by using The Cantril Ladder while the Social Support
 ## Can a nation experiencing low happiness generally anticipate a progression towards higher happiness over time?
 ## Does a general trend in happiness exist?
 ## How has COVID-19 affected happiness?
-[Go to Image](#image-link)
 
 </details>

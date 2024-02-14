@@ -299,10 +299,7 @@ Visual 36 reveals a closer look at the difference in happiness score over time b
 
 ## How is happiness influenced by different country features?
 
-In analyzing correlations across all recorded years, it is evident that Log GDP per Capita, Life Expectancy, and Social Support exhibit the strongest positive associations with Happiness Score. Freedom also shows a positive correlation, albeit to a lesser degree. Generosity demonstrates a slight positive relationship, while Perception of Corruption displays a modest yet noteworthy negative correlation. These findings are supported by the heatmap displayed in [Visual 21](https://github.com/occampos/Patterns_In_Happiness/blob/main/Visuals/data_all_years/data_all_years_06.png){:target="_blank"}
-
-
-
+In analyzing correlations across all recorded years, it is evident that Log GDP per Capita, Life Expectancy, and Social Support exhibit the strongest positive associations with Happiness Score. Freedom also shows a positive correlation, albeit to a lesser degree. Generosity demonstrates a slight positive relationship, while Perception of Corruption displays a modest yet noteworthy negative correlation. These findings are supported by the heatmap displayed in [Link Text](https://github.com/occampos/Patterns_In_Happiness/blob/main/Visuals/data_all_years/data_all_years_06.png){:target="_blank"}
 
 ## How do countries that maintain consistent levels of happiness differ from those where happiness is constantly changing?
 

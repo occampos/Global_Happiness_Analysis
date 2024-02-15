@@ -1,3 +1,6 @@
+add line at x axis, not global,
+change cmaps, add country freaturees voer time
+
 # Patterns and Trends in Global Happiness
 
 The World Happiness Report, a publication by the Sustainable Development Solutions Network, draws its insights from Gallup World Poll data. This report reflects on the global call for a greater emphasis on prioritizing happiness and well-being in governmental policy considerations. It measures happiness around the globe and delves into how happiness differs among individuals and nations, highlighting its significance in policymaking.
@@ -23,17 +26,20 @@ This exploratory analysis draws on data from the World Happiness Report and is d
 
 In analyzing correlations from 2005 to 2023, it is evident that Log GDP per Capita, Life Expectancy, and Social Support exhibit the strongest positive associations with Happiness Score. Freedom also shows a positive correlation, albeit to a lesser degree. Generosity demonstrates a slight positive relationship, while Perception of Corruption displays a modest yet noteworthy negative correlation. This supports that for individuals are most impacted by GDP, Life Expectancy, Social Support and Corruption. about These findings are supported by the heatmap displayed in [Visual 21](#visual_21). 
 
-The impact of country features on happiness varies between nations with high and low variance in Happiness Scores. Notably, countries with high happiness exhibit less variance, while those with lower happiness tend to display more variance. Generally features in countries with high variance show weaker associations with happiness, visualized in [Visual 27](#visual_27). This suggests that individuals in comparatively challenging situations may experience happiness regardless, while individuals in countries with higher happiness levels are more influenced by their circumstances. The relationship between Life Expectancy and Happiness Score remains consistent across both groups, indicating long lifespans as important regardless of a nation's happiness level. However, the association with Perception of Corruption differs significantly between the two groups. In countries with low variance, it is heavily negatively correlated, whereas in countries with high variance, there is no correlation. This implies that corruption has a diminished impact on individuals' lives when they face more pressing concerns and that concerns about corruption represent a luxury afforded to individuals in less problematic life situations. These findings are supported by the heatmap displayed in [Visual 28](#visual_28) and [Visual 29](#visual_29).  
-
-** look at features over time, change cmap vmin and vmax**
+The impact of country features on happiness varies between nations with high and low variance in Happiness Scores. Notably, countries with high happiness exhibit less variance, while those with lower happiness tend to display more variance. In other words, when a country attains a certain level of happiness its likely to retain that happiness. Generally features in countries with high variance show weaker associations with happiness, visualized in [Visual 27](#visual_27). This suggests that individuals in comparatively challenging situations may experience happiness regardless, while individuals in countries with higher happiness levels are more influenced by their circumstances. The relationship between Life Expectancy and Happiness Score remains consistent across both groups, indicating long lifespans as important regardless of a nation's happiness level. However, the association with Perception of Corruption differs significantly between the two groups. In countries with low variance, it is heavily negatively correlated, whereas in countries with high variance, there is no correlation. This implies that corruption has a diminished impact on individuals' lives when they face more pressing concerns and that concerns about corruption represent a luxury afforded to individuals in less problematic life situations. These findings are supported by the heatmap displayed in [Visual 28](#visual_28) and [Visual 29](#visual_29).  
 
 ## Is there a global correlation in happiness, or is happiness primarily manifested at an individual countriy level?
 
 
 ## Can a nation experiencing low happiness generally anticipate a progression towards higher happiness over time?
 
-## Does a general trend in happiness exist?
+The global average Happiness Score appears to trend upward over time which is depicted in [Visual 19](#visual_19). Even more so, despite the pandemic, happiness levels remain relatively high compared to recent years. However, analyzing the global average may undermine patterns that are prevalent at an individual country level. Adopting a different analytical approach, a fresh perspective is unveiled. By subtracting the Happiness Score of a single country from its score x years in the past and aggregating these differences by the year difference (x), a nuanced understanding emerges. For instance, the difference in Happiness Score between Algeria in 2020 and Algeria in 2017, as well as between Algeria in 2016 and Algeria in 2013, is recorded as a 3 year difference. 
+[Visual 35](#visual_35) illustrates this through boxplots, demonstrating a slight incline in the average difference in Happiness Score over time. Notably, the change in Happiness Score for any individual country is minimal, with the average score shifting less than 1 unit, while the most extreme cases witness changes closer to 3 units. Moreover, the correlation between the difference in Happiness Score and the difference in years was found to be very weak. [Visual 36](#visual_36) reveals that nations exhibit varying degrees of change over x amount of years. This all supports that a nation cannot anticipate an upward trend in happiness over time alone; rather, it is more reliant on other variables and events. Notably A signficant negative dip is observed towards the larger difference in years in both [Visual 35](#visual_35) and [Visual 36](#visual_36), this can be attested to the global pandemic occuring. Thus can be seen as an example of a larger event having more influence on happiness than time. 
 
+
+-Time on a small scale. Lrger scale may be different.
+-Correlation does not mean causation
+-Ecological Fallacy: Aggregating data at the global level and then correlating it with individual countries' data can lead to the ecological fallacy. This occurs when inferences about individual-level relationships are made based on aggregate-level data. The relationships observed at the global level may not necessarily hold true for individual countries.
 ## How has COVID-19 affected happiness?
 
 </details>
@@ -175,6 +181,7 @@ A total of 165 countries are represented across the 18-year period. In Visual 17
 
 Visual 19 shows that until 2019, there had been a general upward trend in the overall happiness of recorded countries worldwide. However, the onset of the COVID pandemic in the year 2020 can be said to have significantly impacted global happiness levels, leading to a notable decline in global happiness. According to the data provided, an indiciation on a rebound in happines after the decline has yet to be observed. 
 
+<a id="visual_19"></a>
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_04.png" width="800" height="600"> | 
 |:--:| 
 | *Visual 19; Global happiness over time* | 
@@ -307,14 +314,16 @@ It's expected to see a correlation of some degree because the global average is 
 
 This question can be studied by focusing on patterns arising after a certain amount of years. Is an outcome commonplace after just two years? or does a prevalent pattern emerge after 15 years? <br>
 Immediately the correlation coefficient between the difference in happiness and the difference in years is 0.052501, which is very weak positive relationship.
-Visual 35 shows the difference in happiness score by the difference in years on a global scale. An interesting observation is that it is rare or difficult for a nation's happiness score to see significant change, whether the difference is 2 years or 17 years. The largest changes are around 3 units, while the average is much closer to 0 units, which is barely any change at all. This hints that happiness in a country is a very large-scale and complex problem that requires decades to affect. Initially a very small but consistent trend upward is seen globally. As the difference in years increases the differences in happiness also trends upward albeit very minimally. When the difference of years reaches 18 a significant spike downwards occurs. This can be interpreted as nations having a weak relationship between happiness and time and is overpowered by other factors or major events such as a pandemic.
+The Happiness Score of a single country was subtracted from its score x years in the past, and these differences were aggregated by the year difference (x). For instance, the difference in Happiness Score between Algeria in 2020 and Algeria in 2017, as well as between Algeria in 2016 and Algeria in 2013, is recorded as a 3-year difference. Visual 35 shows this using boxplots. An interesting observation is that it is rare or difficult for a nation's happiness score to see significant change, whether the difference is 2 years or 17 years. The largest changes are around 3 units, while the average is much closer to 0 units, which is barely any change at all. This hints that happiness in a country is a very large-scale and complex problem that requires decades to affect. Initially a very small but consistent trend upward is seen globally. As the difference in years increases the differences in happiness also trends upward albeit very minimally. When the difference of years reaches 18 a significant spike downwards occurs. This can be interpreted as nations having a weak relationship between happiness and time and is overpowered by other factors or major events such as a pandemic.
 
+<a id="visual_35"></a>
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_22.png" width="800" height="600"> | 
 |:--:| 
 | *Visual 35; Global Average Difference in Happiness Score Over Time* | 
 
 Visual 36 reveals a closer look at the difference in happiness score over time by highlighting regional patterns. South/Central America has the most notable increase, showing a difference in happiness over time that is much more significant than any other region. While the Middle East is shown to slowly regress lower, much more than any other region. A shared trait of almost all regions is that the most recent year shows a spike downward possibly due to the pandemic. This hints that the pandemic had a major impact on happiness in a nation so much so that it decreases happiness lower than over a decade prior. This again supports that there is a relationship between happiness and time but it is very weak and can be overtaken by more impactful variables.
 
+<a id="visual_36"></a>
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_23.png" width="800" height="600"> | 
 |:--:| 
 | *Visual 36; Average Difference in Happiness Score Over Time by Region* | 

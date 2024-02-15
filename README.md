@@ -1,6 +1,3 @@
-add line at x axis, not global,
-change cmaps, add country freaturees voer time
-
 # Patterns and Trends in Global Happiness
 
 The World Happiness Report, a publication by the Sustainable Development Solutions Network, draws its insights from Gallup World Poll data. This report reflects on the global call for a greater emphasis on prioritizing happiness and well-being in governmental policy considerations. It measures happiness around the globe and delves into how happiness differs among individuals and nations, highlighting its significance in policymaking.
@@ -21,6 +18,8 @@ This exploratory analysis draws on data from the World Happiness Report and is d
 <details>
    
 <summary>Conclusions</summary>
+add line at x axis, not global,
+change cmaps, add country freaturees voer time, add country featyures scatterplots uniqnuess
 
 ## How is happiness influenced by different country features?
 
@@ -33,15 +32,18 @@ The impact of country features on happiness varies between nations with high and
 
 ## Can a nation experiencing low happiness generally anticipate a progression towards higher happiness over time?
 
-The global average Happiness Score appears to trend upward over time which is depicted in [Visual 19](#visual_19). Even more so, despite the pandemic, happiness levels remain relatively high compared to recent years. However, analyzing the global average may undermine patterns that are prevalent at an individual country level. Adopting a different analytical approach, a fresh perspective is unveiled. By subtracting the Happiness Score of a single country from its score x years in the past and aggregating these differences by the year difference (x), a nuanced understanding emerges. For instance, the difference in Happiness Score between Algeria in 2020 and Algeria in 2017, as well as between Algeria in 2016 and Algeria in 2013, is recorded as a 3 year difference. 
-[Visual 35](#visual_35) illustrates this through boxplots, demonstrating a slight incline in the average difference in Happiness Score over time. Notably, the change in Happiness Score for any individual country is minimal, with the average score shifting less than 1 unit, while the most extreme cases witness changes closer to 3 units. Moreover, the correlation between the difference in Happiness Score and the difference in years was found to be very weak. [Visual 36](#visual_36) reveals that nations exhibit varying degrees of change over x amount of years. This all supports that a nation cannot anticipate an upward trend in happiness over time alone; rather, it is more reliant on other variables and events. Notably A signficant negative dip is observed towards the larger difference in years in both [Visual 35](#visual_35) and [Visual 36](#visual_36), this can be attested to the global pandemic occuring. Thus can be seen as an example of a larger event having more influence on happiness than time. 
+The global average Happiness Score appears to trend upward over time which is depicted in [Visual 19](#visual_19). Even more so, despite the pandemic, happiness levels remain relatively high compared to recent years. However, analyzing the global average may undermine patterns that are prevalent at an individual country level. By adopting a different analytical approach, a fresh perspective is unveiled. 
 
+By subtracting the Happiness Score of a single country from its score x years in the past and aggregating these differences by the year difference (x), a nuanced understanding emerges. For instance, the difference in Happiness Score between Algeria in 2020 and Algeria in 2017, as well as between Algeria in 2016 and Algeria in 2013, is recorded as a 3 year difference. [Visual 35](#visual_35) illustrates this through boxplots, demonstrating a slight incline in the average difference in Happiness Score over time. Notably, the change in Happiness Score for any individual country is minimal, with the average score shifting less than 1 unit, while the most extreme cases witness changes closer to 3 units. Moreover, the correlation between the difference in Happiness Score and the difference in years was found to be very weak. [Visual 36](#visual_36) reveals that nations exhibit varying degrees of change over x amount of years. This all supports that a nation cannot anticipate an upward trend in happiness over time alone; rather, it is more reliant on other variables and events. Notably A signficant negative dip is observed towards the larger difference in years in both [Visual 35](#visual_35) and [Visual 36](#visual_36), this can be attested to the global pandemic occuring. Thus can be seen as an example of a larger event having more influence on happiness than time. 
+
+## How has COVID-19 affected happiness?
+## Weaknesses
 
 -Time on a small scale. Lrger scale may be different.
 -Correlation does not mean causation
 -Ecological Fallacy: Aggregating data at the global level and then correlating it with individual countries' data can lead to the ecological fallacy. This occurs when inferences about individual-level relationships are made based on aggregate-level data. The relationships observed at the global level may not necessarily hold true for individual countries.
-## How has COVID-19 affected happiness?
 
+## Recommendations or Further Considerations:
 </details>
 
 <details>

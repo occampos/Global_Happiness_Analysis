@@ -207,6 +207,10 @@ The country feature correlation matrix for all recorded years, depicted by Visua
 |:--:| 
 | *Visual 21; Country feature correlation heatmap in all recorded years* | 
 
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/test_data_all_years_06.png" width="700" height="580"> | 
+|:--:| 
+| *Visual 21; Country feature correlation heatmap in all recorded years* | 
+
 <p>&nbsp;</p>
 
 Visuals 22 through 26 are scatterplots of country features correlated to happiness by region for all recorded years. Similarly to 2023, social support, GDP, life expectancy, and freedom all indicate a positive correlation to the happiness score. However, GDP has barely surpassed social support as the most correlated with coefficients at 0.78 and 0.73 respectively. GDP's data points fit the line of best fit the tightest, hence a stronger correlation. Generosity is shown to have a very loose fit, supporting a lack of correlation to happiness, and Perception of Corruption shows a negative correlation.
@@ -271,6 +275,16 @@ Similarly, Perception of Corruption also experiences a shift from strong correla
 |:--:| 
 | *Visual 29; Country feature correlation heatmap for countries with highest varaince in happiness* | 
 
+<a id="visual_28"></a>
+| <img src="https://github.com/occampos/Patterns_In_Happiness/blob/main/Visuals/data_all_years/test_data_all_years_14.png" width="700" height="580"> | 
+|:--:| 
+| *Visual 28; Country feature correlation heatmap for countries with lowest varaince in happiness* | 
+
+<a id="visual_29"></a>
+| <img src="https://github.com/occampos/Patterns_In_Happiness/blob/main/Visuals/data_all_years/test_data_all_years_15.png" width="700" height="580"> | 
+|:--:| 
+| *Visual 29; Country feature correlation heatmap for countries with highest varaince in happiness* | 
+
 <p>&nbsp;</p>
 
 Visual 30 higlights the difference between correlation in happiness between the two groups. Interestingly, Perception of Corruption has the greatest difference in correlation at a change of 0.58. This supports the idea that corruption has a smaller impact on happiness in countries that do not have stable happiness, and once a country reaches a certain level of happiness and thus less problems are immediately present, then corruption has a larger effect on happiness. The same can be said for Freedom and GDP, to a less significant extent, at differences of 0.35 and 0.26 respectively. Social Support, Generosity, and Life Expectancy show insignificant differences in correlation between the two groups. <br>
@@ -320,6 +334,11 @@ The Happiness Score of a single country was subtracted from its score x years in
 
 <a id="visual_35"></a>
 | <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/data_all_years_22.png" width="800" height="600"> | 
+|:--:| 
+| *Visual 35; Global Average Difference in Happiness Score Over Time* | 
+
+<a id="visual_35"></a>
+| <img src="https://raw.githubusercontent.com/occampos/Patterns_In_Happiness/main/Visuals/data_all_years/test_data_all_years_22.png" width="800" height="600"> | 
 |:--:| 
 | *Visual 35; Global Average Difference in Happiness Score Over Time* | 
 

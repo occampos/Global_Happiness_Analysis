@@ -18,8 +18,6 @@ This exploratory analysis draws on data from the World Happiness Report and is d
 <details>
    
 <summary>Conclusions</summary>
-add line at x axis, not global,
-change cmaps, add country freaturees voer time, add country featyures scatterplots uniqnuess
 
 ## How is happiness influenced by different country features?
 
@@ -29,7 +27,7 @@ The impact of country features on happiness varies between nations with high and
 
 ## Is there a global correlation in happiness, or is happiness primarily manifested at an individual countriy level?
 
-The Happines Score over time per nation was measured against the global average, correlation and variance was observed. Analysis reveals that global happiness trends significantly influence individual countries. [Visual 32](#visual_32) illustrates predominantly positive correlations among countries, while [Visual 33](#visual_33) emphasizes the prevalence of correlation, both positive and negative. Visual 34 highlights the mean absolute correlation of (0.421), suggesting a significant positive relationship globally. The variance of absolute correlation was measured at (0.051) showing that correlation does not differ greatly from country to country. 
+The Happines Score over time per nation was measured against the global average, correlation and variance was observed. Analysis reveals that global happiness trends significantly influence individual countries. [Visual 32](#visual_32) illustrates predominantly positive correlations among countries, while [Visual 33](#visual_33) emphasizes the prevalence of correlation, both positive and negative. Visual 34 highlights the mean absolute correlation of (0.421), suggesting a significant positive relationship globally. The variance of absolute correlation was measured at (0.051) showing that correlation does not differ greatly from country to country further supporting that happiness is influenced globally.
 
 ## Can a nation experiencing low happiness generally anticipate a progression towards higher happiness over time?
 
@@ -39,7 +37,7 @@ By subtracting the Happiness Score of a single country from its score x years in
 
 ## How has COVID-19 affected happiness?
 
-
+16, 19, 20, 27, 35, 36,
 ## Weaknesses
 
 -Time on a small scale. Lrger scale may be different.

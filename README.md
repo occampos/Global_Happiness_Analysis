@@ -13,7 +13,6 @@ This exploratory analysis draws on data from the World Happiness Report and is d
 + How do countries that maintain consistent levels of happiness differ from those where happiness levels constantly change?
 + Is happiness globally correlated, or does it predominantly manifest at an individual country level?
 + Can a nation experiencing unhappiness generally anticipate a progression towards higher happiness over time?
-+ How has COVID-19 affected happiness?
 
 <details>
    
@@ -35,19 +34,21 @@ The global average Happiness Score appears to trend upward over time which is de
 
 By subtracting the Happiness Score of a single country from its score x years in the past and aggregating these differences by the year difference (x), a nuanced understanding emerges. For instance, the difference in Happiness Score between Algeria in 2020 and Algeria in 2017, as well as between Algeria in 2016 and Algeria in 2013, is recorded as a 3 year difference. [Visual 35](#visual_35) illustrates this through boxplots, demonstrating a slight incline in the average difference in Happiness Score over time. Notably, the change in Happiness Score for any individual country is minimal, with the average score shifting less than 1 unit, while the most extreme cases witness changes closer to 3 units. Moreover, the correlation between the difference in Happiness Score and the difference in years was found to be very weak. [Visual 36](#visual_36) reveals that nations exhibit varying degrees of change over x amount of years. This all supports that a nation cannot anticipate an upward trend in happiness over time alone; rather, it is more reliant on other variables and events. Notably A signficant negative dip is observed towards the larger difference in years in both [Visual 35](#visual_35) and [Visual 36](#visual_36), this can be attested to the global pandemic occuring. Thus can be seen as an example of a larger event having more influence on happiness than time. 
 
-## How has COVID-19 affected happiness?
-
-16, 19, 20, 27, 35, 36,
 ## Weaknesses
+Exclusion of Additional Factors:
++The study primarily focused on changes in country names across different years and did not consider other important variables or contextual factors that could influence country-level dynamics and trends. Factors such as political changes, economic shifts, and social developments were not fully explored.
 
--Time on a small scale. Lrger scale may be different.
--Correlation does not mean causation
--Ecological Fallacy: Aggregating data at the global level and then correlating it with individual countries' data can lead to the ecological fallacy. This occurs when inferences about individual-level relationships are made based on aggregate-level data. The relationships observed at the global level may not necessarily hold true for individual countries.
+Lack of Contextual Analysis:
++The analysis lacked deeper contextual understanding of the reasons behind changes in country names or their implications. Without additional context and qualitative insights, it is challenging to fully interpret the significance of the observed patterns and discrepancies.
 
-## Recommendations or Further Considerations:
--Time on a small scale. Lrger scale may be different.
--Correlation does not mean causation
--Ecological Fallacy: Aggregating data at the global level and then correlating it with individual countries' data can lead to the ecological fallacy. This occurs when inferences about individual-level relationships are made based on aggregate-level data. The relationships observed at the global level may not necessarily hold true for individual countries.
+Temporal Scale Limitation:
++The study's analysis focuses on a relatively small time scale. Trends observed within this limited time frame may not accurately represent long-term patterns. Larger time scales might reveal different trends and dynamics.
+
+Correlation vs. Causation:
++It's essential to recognize that correlation does not imply causation. While the study may identify correlations between variables, establishing causal relationships requires further investigation and rigorous analysis.
+
+Ecological Fallacy:
++Aggregating data at the global level and correlating it with individual countries' data can lead to the ecological fallacy. This fallacy occurs when conclusions about individual-level relationships are drawn from aggregate-level data. It's crucial to acknowledge that relationships observed at the global level may not necessarily hold true for individual countries due to unique contextual factors and variations.
 
 </details>
 

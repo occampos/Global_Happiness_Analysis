@@ -36,19 +36,19 @@ By subtracting the Happiness Score of a single country from its score x years in
 
 ## Weaknesses
 Exclusion of Additional Factors:
-+The study primarily focused on changes in country names across different years and did not consider other important variables or contextual factors that could influence country-level dynamics and trends. Factors such as political changes, economic shifts, and social developments were not fully explored.
++ The study primarily focused on changes in country names across different years and did not consider other important variables or contextual factors that could influence country-level dynamics and trends. Factors such as political changes, economic shifts, and social developments were not fully explored.
 
 Lack of Contextual Analysis:
-+The analysis lacked deeper contextual understanding of the reasons behind changes in country names or their implications. Without additional context and qualitative insights, it is challenging to fully interpret the significance of the observed patterns and discrepancies.
++ The analysis lacked deeper contextual understanding of the reasons behind changes in country names or their implications. Without additional context and qualitative insights, it is challenging to fully interpret the significance of the observed patterns and discrepancies.
 
 Temporal Scale Limitation:
-+The study's analysis focuses on a relatively small time scale. Trends observed within this limited time frame may not accurately represent long-term patterns. Larger time scales might reveal different trends and dynamics.
++ The study's analysis focuses on a relatively small time scale. Trends observed within this limited time frame may not accurately represent long-term patterns. Larger time scales might reveal different trends and dynamics.
 
 Correlation vs. Causation:
-+It's essential to recognize that correlation does not imply causation. While the study may identify correlations between variables, establishing causal relationships requires further investigation and rigorous analysis.
++ It's essential to recognize that correlation does not imply causation. While the study may identify correlations between variables, establishing causal relationships requires further investigation and rigorous analysis.
 
 Ecological Fallacy:
-+Aggregating data at the global level and correlating it with individual countries' data can lead to the ecological fallacy. This fallacy occurs when conclusions about individual-level relationships are drawn from aggregate-level data. It's crucial to acknowledge that relationships observed at the global level may not necessarily hold true for individual countries due to unique contextual factors and variations.
++ Aggregating data at the global level and correlating it with individual countries' data can lead to the ecological fallacy. This fallacy occurs when conclusions about individual-level relationships are drawn from aggregate-level data. It's crucial to acknowledge that relationships observed at the global level may not necessarily hold true for individual countries due to unique contextual factors and variations.
 
 </details>
 
